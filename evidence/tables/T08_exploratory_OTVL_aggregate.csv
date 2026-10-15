@@ -1,0 +1,3 @@
+role,participants,calibrated,interpretation,rest_exposure_pct,onset_success_pct,offset_compliance_pct,active_command_coverage_pct,interior_correct_fraction_pct,interior_wrong_active_fraction_pct
+development,2,2,Exploratory adaptation after primary outcome exposure; not the published full system,0.09214005288037817,0.0,97.05882352941177,20.14223188541458,11.398451383599898,8.743780501814685
+final,8,8,Exploratory adaptation after primary outcome exposure; not the published full system,0.06183210993165906,0.0,99.26470588235294,17.84856814627773,12.003589864355666,5.844978281922061

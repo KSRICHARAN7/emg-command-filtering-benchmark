@@ -1,0 +1,5 @@
+contrast,participants,mean_difference_pp,CI_low_pp,CI_high_pp,exact_signflip_p,status
+subset_activation_only minus selected_symmetric,8,0.0,0.0,0.0,1.0,DESCRIPTIVE_ONLY_DEVELOPMENT_FEASIBILITY_FAILED
+subset_activation_only minus selected_asymmetric,8,-1.0773341892102266,-1.397112241200245,-0.7644116076854858,0.0078125,DESCRIPTIVE_ONLY_DEVELOPMENT_FEASIBILITY_FAILED
+subset_release_only minus selected_symmetric,8,1.0773341892102266,0.7644116076854858,1.397112241200245,0.0078125,DESCRIPTIVE_ONLY_DEVELOPMENT_FEASIBILITY_FAILED
+subset_release_only minus selected_asymmetric,8,0.0,0.0,0.0,1.0,DESCRIPTIVE_ONLY_DEVELOPMENT_FEASIBILITY_FAILED

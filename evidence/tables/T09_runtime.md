@@ -1,0 +1,4 @@
+| dataset | profiled_person_methods | sampled_updates | largest_observed_update_ms | updates_over_25ms | scope |
+| --- | --- | --- | --- | --- | --- |
+| DB5 | 56 | 11200 | 20.311780 | 0 | Finite sampled host timing; no hard realtime or embedded-device guarantee |
+| DB2 | 448 | 22400 | 5.112384 | 0 | Finite sampled host timing; no hard realtime or embedded-device guarantee |

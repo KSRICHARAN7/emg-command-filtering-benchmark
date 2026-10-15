@@ -1,0 +1,23 @@
+{
+  "dataset": "Ninapro DB2",
+  "subject": 34,
+  "canonical_exercise_expected": "B",
+  "source_url": "https://ninapro.hevs.ch/files/DB2_Preproc/DB2_s34.zip",
+  "original_member": "DB2_s34/S34_E1_A1.mat",
+  "local_path": "data/raw/db2/S34_E1_A1.mat",
+  "archive_size_bytes": 464773726,
+  "source_etag": "\"1bb3e25e-5291f903c1d29\"",
+  "compressed_member_range": [
+    398,
+    175383263
+  ],
+  "compressed_member_bytes": 175382866,
+  "member_bytes": 175759595,
+  "archive_member_crc32": "480bdfc0",
+  "member_crc_pass": true,
+  "member_sha256": "0de9e971de4f631c59afcc0fb209c7c5958ebc9851b562bc38173bb87513696f",
+  "complete_archive_downloaded": false,
+  "whole_archive_checksum_verified": false,
+  "downloaded_at_utc": "2026-10-15T17:53:58+00:00",
+  "download_seconds": 42.27558530999886
+}

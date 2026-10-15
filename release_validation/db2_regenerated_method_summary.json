@@ -1,0 +1,332 @@
+[
+  {
+    "name": "transport_raw",
+    "family": "raw",
+    "params": {},
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.3313589185050491,
+      "onset_success": 0.1810661764705882,
+      "offset_compliance": 0.28400735294117646,
+      "active_command_coverage": 0.8728668882936834,
+      "interior_correct_fraction": 0.5800850902992121,
+      "interior_wrong_active_fraction": 0.29278179799447135
+    }
+  },
+  {
+    "name": "transport_majority",
+    "family": "majority",
+    "params": {
+      "n": 1
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.3313589185050491,
+      "onset_success": 0.1810661764705882,
+      "offset_compliance": 0.28400735294117646,
+      "active_command_coverage": 0.8728668882936834,
+      "interior_correct_fraction": 0.5800850902992121,
+      "interior_wrong_active_fraction": 0.29278179799447135
+    }
+  },
+  {
+    "name": "transport_symmetric",
+    "family": "symmetric",
+    "params": {
+      "n": 1
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.3313589185050491,
+      "onset_success": 0.1810661764705882,
+      "offset_compliance": 0.28400735294117646,
+      "active_command_coverage": 0.8728668882936834,
+      "interior_correct_fraction": 0.5800850902992121,
+      "interior_wrong_active_fraction": 0.29278179799447135
+    }
+  },
+  {
+    "name": "transport_asymmetric",
+    "family": "asymmetric",
+    "params": {
+      "activation": 1,
+      "release": 2,
+      "switch_rule": "activation"
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.37301271116533347,
+      "onset_success": 0.18933823529411764,
+      "offset_compliance": 0.24816176470588236,
+      "active_command_coverage": 0.8901000207718512,
+      "interior_correct_fraction": 0.5863615220060077,
+      "interior_wrong_active_fraction": 0.30373849876584363
+    }
+  },
+  {
+    "name": "transport_confidence_rejection",
+    "family": "confidence_rejection",
+    "params": {
+      "threshold": 0
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.3313589185050491,
+      "onset_success": 0.1810661764705882,
+      "offset_compliance": 0.28400735294117646,
+      "active_command_coverage": 0.8728668882936834,
+      "interior_correct_fraction": 0.5800850902992121,
+      "interior_wrong_active_fraction": 0.29278179799447135
+    }
+  },
+  {
+    "name": "transport_DCIR",
+    "family": "DCIR",
+    "params": {
+      "minimum": 0.2,
+      "maximum": 0.8,
+      "tau_ms": 100
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.15197594645804274,
+      "onset_success": 0.13143382352941177,
+      "offset_compliance": 0.5854779411764706,
+      "active_command_coverage": 0.6512233691975291,
+      "interior_correct_fraction": 0.5056726775522646,
+      "interior_wrong_active_fraction": 0.14555069164526446
+    }
+  },
+  {
+    "name": "transport_MAV_onset_locking",
+    "family": "MAV_onset_locking",
+    "params": {
+      "rest_sd_multiplier": 3,
+      "initial_votes": 1
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.01791935534121538,
+      "onset_success": 0.05882352941176471,
+      "offset_compliance": 0.8088235294117647,
+      "active_command_coverage": 0.5428966725300757,
+      "interior_correct_fraction": 0.23111670579193555,
+      "interior_wrong_active_fraction": 0.31177996673814024
+    }
+  },
+  {
+    "name": "reselected_raw",
+    "family": "raw",
+    "params": {},
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.3313589185050491,
+      "onset_success": 0.1810661764705882,
+      "offset_compliance": 0.28400735294117646,
+      "active_command_coverage": 0.8728668882936834,
+      "interior_correct_fraction": 0.5800850902992121,
+      "interior_wrong_active_fraction": 0.29278179799447135
+    }
+  },
+  {
+    "name": "reselected_majority",
+    "family": "majority",
+    "params": {
+      "n": 13
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.31747402259994273,
+      "onset_success": 0.12316176470588236,
+      "offset_compliance": 0.2941176470588235,
+      "active_command_coverage": 0.8721744069622418,
+      "interior_correct_fraction": 0.6101353331650191,
+      "interior_wrong_active_fraction": 0.26203907379722274
+    }
+  },
+  {
+    "name": "reselected_symmetric",
+    "family": "symmetric",
+    "params": {
+      "n": 3
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.3242040518912035,
+      "onset_success": 0.1672794117647059,
+      "offset_compliance": 0.29044117647058826,
+      "active_command_coverage": 0.8726687012937913,
+      "interior_correct_fraction": 0.5952500695972259,
+      "interior_wrong_active_fraction": 0.27741863169656533
+    }
+  },
+  {
+    "name": "reselected_asymmetric",
+    "family": "asymmetric",
+    "params": {
+      "activation": 5,
+      "release": 7,
+      "switch_rule": "activation"
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.3499209904094236,
+      "onset_success": 0.15165441176470587,
+      "offset_compliance": 0.2555147058823529,
+      "active_command_coverage": 0.8894561787283197,
+      "interior_correct_fraction": 0.6150049107433075,
+      "interior_wrong_active_fraction": 0.27445126798501207
+    }
+  },
+  {
+    "name": "reselected_confidence_rejection",
+    "family": "confidence_rejection",
+    "params": {
+      "threshold": 0.5
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.1284394553995715,
+      "onset_success": 0.12316176470588236,
+      "offset_compliance": 0.6231617647058822,
+      "active_command_coverage": 0.6306847827894755,
+      "interior_correct_fraction": 0.4854594393236574,
+      "interior_wrong_active_fraction": 0.1452253434658181
+    }
+  },
+  {
+    "name": "reselected_DCIR",
+    "family": "DCIR",
+    "params": {
+      "minimum": 0.2,
+      "maximum": 0.8,
+      "tau_ms": 250
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.10759138508943539,
+      "onset_success": 0.10294117647058823,
+      "offset_compliance": 0.6920955882352942,
+      "active_command_coverage": 0.586483708158238,
+      "interior_correct_fraction": 0.47718554597301044,
+      "interior_wrong_active_fraction": 0.10929816218522756
+    }
+  },
+  {
+    "name": "reselected_MAV_onset_locking",
+    "family": "MAV_onset_locking",
+    "params": {
+      "rest_sd_multiplier": 1,
+      "initial_votes": 3
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.0848681665302771,
+      "onset_success": 0.07904411764705882,
+      "offset_compliance": 0.609375,
+      "active_command_coverage": 0.6254994378515145,
+      "interior_correct_fraction": 0.24495221690396454,
+      "interior_wrong_active_fraction": 0.38054722094755006
+    }
+  },
+  {
+    "name": "fixed_raw",
+    "family": "raw",
+    "params": {},
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.3313589185050491,
+      "onset_success": 0.1810661764705882,
+      "offset_compliance": 0.28400735294117646,
+      "active_command_coverage": 0.8728668882936834,
+      "interior_correct_fraction": 0.5800850902992121,
+      "interior_wrong_active_fraction": 0.29278179799447135
+    }
+  },
+  {
+    "name": "fixed_majority",
+    "family": "majority",
+    "params": {
+      "n": 9
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.32274291676850775,
+      "onset_success": 0.14246323529411764,
+      "offset_compliance": 0.29227941176470584,
+      "active_command_coverage": 0.8730863632838148,
+      "interior_correct_fraction": 0.6013289306485905,
+      "interior_wrong_active_fraction": 0.2717574326352244
+    }
+  },
+  {
+    "name": "fixed_confidence_rejection",
+    "family": "confidence_rejection",
+    "params": {
+      "threshold": 0.97
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.00951850542135433,
+      "onset_success": 0.018382352941176468,
+      "offset_compliance": 0.9568014705882353,
+      "active_command_coverage": 0.23781484166542882,
+      "interior_correct_fraction": 0.21980222364816143,
+      "interior_wrong_active_fraction": 0.018012618017267418
+    }
+  },
+  {
+    "name": "fixed_DCIR",
+    "family": "DCIR",
+    "params": {
+      "minimum": 0.4,
+      "maximum": 0.989,
+      "tau_ms": 480
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.04883213239840917,
+      "onset_success": 0.05422794117647059,
+      "offset_compliance": 0.8419117647058824,
+      "active_command_coverage": 0.4433671979500163,
+      "interior_correct_fraction": 0.3923659367273805,
+      "interior_wrong_active_fraction": 0.051001261222635735
+    }
+  },
+  {
+    "name": "fixed_MAV_onset_locking",
+    "family": "MAV_onset_locking",
+    "params": {
+      "rest_sd_multiplier": 3,
+      "initial_votes": 6
+    },
+    "participants": 32,
+    "participants_meeting_all_constraints": 0,
+    "means": {
+      "rest_exposure": 0.018466758568087376,
+      "onset_success": 0.06066176470588235,
+      "offset_compliance": 0.802389705882353,
+      "active_command_coverage": 0.5536255812940697,
+      "interior_correct_fraction": 0.2613467185263554,
+      "interior_wrong_active_fraction": 0.2922788627677143
+    }
+  }
+]

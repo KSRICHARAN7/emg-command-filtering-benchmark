@@ -1,0 +1,16 @@
+| dataset | family | params | status | feasible_candidates | candidate_count |
+| --- | --- | --- | --- | --- | --- |
+| DB5 primary | raw | {} | INFEASIBLE_DESCRIPTIVE_ONLY | 0 | 1 |
+| DB5 primary | majority | {"n": 1} | INFEASIBLE_DESCRIPTIVE_ONLY | 0 | 6 |
+| DB5 primary | symmetric | {"n": 1} | INFEASIBLE_DESCRIPTIVE_ONLY | 0 | 6 |
+| DB5 primary | asymmetric | {"activation": 1, "release": 2, "switch_rule": "activation"} | INFEASIBLE_DESCRIPTIVE_ONLY | 0 | 36 |
+| DB5 primary | confidence_rejection | {"threshold": 0} | INFEASIBLE_DESCRIPTIVE_ONLY | 0 | 10 |
+| DB5 primary | DCIR | {"maximum": 0.8, "minimum": 0.2, "tau_ms": 100} | INFEASIBLE_DESCRIPTIVE_ONLY | 0 | 28 |
+| DB5 primary | MAV_onset_locking | {"initial_votes": 1, "rest_sd_multiplier": 3} | INFEASIBLE_DESCRIPTIVE_ONLY | 0 | 20 |
+| DB2 secondary reselection | raw | {} | INFEASIBLE_DESCRIPTIVE_ONLY | 0 | 1 |
+| DB2 secondary reselection | majority | {"n": 13} | INFEASIBLE_DESCRIPTIVE_ONLY | 0 | 6 |
+| DB2 secondary reselection | symmetric | {"n": 3} | INFEASIBLE_DESCRIPTIVE_ONLY | 0 | 6 |
+| DB2 secondary reselection | asymmetric | {"activation": 5, "release": 7, "switch_rule": "activation"} | INFEASIBLE_DESCRIPTIVE_ONLY | 0 | 36 |
+| DB2 secondary reselection | confidence_rejection | {"threshold": 0.5} | INFEASIBLE_DESCRIPTIVE_ONLY | 0 | 10 |
+| DB2 secondary reselection | DCIR | {"maximum": 0.8, "minimum": 0.2, "tau_ms": 250} | INFEASIBLE_DESCRIPTIVE_ONLY | 0 | 28 |
+| DB2 secondary reselection | MAV_onset_locking | {"initial_votes": 3, "rest_sd_multiplier": 1} | INFEASIBLE_DESCRIPTIVE_ONLY | 0 | 20 |

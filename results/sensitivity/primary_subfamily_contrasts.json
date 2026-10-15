@@ -1,0 +1,98 @@
+[
+  {
+    "contrast": "subset_activation_only minus selected_symmetric",
+    "participant_differences_pp": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "participants": 8,
+    "mean_difference_pp": 0.0,
+    "bootstrap_95_percentile_interval_pp": [
+      0.0,
+      0.0
+    ],
+    "bootstrap_draws": 10000,
+    "bootstrap_seed": 20261015,
+    "exact_two_sided_signflip_p": 1.0,
+    "sign_assignments": 256,
+    "inference_status": "DESCRIPTIVE_ONLY_DEVELOPMENT_FEASIBILITY_FAILED"
+  },
+  {
+    "contrast": "subset_activation_only minus selected_asymmetric",
+    "participant_differences_pp": [
+      -1.339577434110216,
+      -0.35290420826182606,
+      -0.648766857004009,
+      -1.7664607976551894,
+      -1.552111676327933,
+      -1.168376865671643,
+      -1.1395881006864992,
+      -0.6508875739644968
+    ],
+    "participants": 8,
+    "mean_difference_pp": -1.0773341892102266,
+    "bootstrap_95_percentile_interval_pp": [
+      -1.397112241200245,
+      -0.7644116076854858
+    ],
+    "bootstrap_draws": 10000,
+    "bootstrap_seed": 20261015,
+    "exact_two_sided_signflip_p": 0.0078125,
+    "sign_assignments": 256,
+    "inference_status": "DESCRIPTIVE_ONLY_DEVELOPMENT_FEASIBILITY_FAILED"
+  },
+  {
+    "contrast": "subset_release_only minus selected_symmetric",
+    "participant_differences_pp": [
+      1.339577434110216,
+      0.35290420826182606,
+      0.648766857004009,
+      1.7664607976551894,
+      1.552111676327933,
+      1.168376865671643,
+      1.1395881006864992,
+      0.6508875739644968
+    ],
+    "participants": 8,
+    "mean_difference_pp": 1.0773341892102266,
+    "bootstrap_95_percentile_interval_pp": [
+      0.7644116076854858,
+      1.397112241200245
+    ],
+    "bootstrap_draws": 10000,
+    "bootstrap_seed": 20261015,
+    "exact_two_sided_signflip_p": 0.0078125,
+    "sign_assignments": 256,
+    "inference_status": "DESCRIPTIVE_ONLY_DEVELOPMENT_FEASIBILITY_FAILED"
+  },
+  {
+    "contrast": "subset_release_only minus selected_asymmetric",
+    "participant_differences_pp": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "participants": 8,
+    "mean_difference_pp": 0.0,
+    "bootstrap_95_percentile_interval_pp": [
+      0.0,
+      0.0
+    ],
+    "bootstrap_draws": 10000,
+    "bootstrap_seed": 20261015,
+    "exact_two_sided_signflip_p": 1.0,
+    "sign_assignments": 256,
+    "inference_status": "DESCRIPTIVE_ONLY_DEVELOPMENT_FEASIBILITY_FAILED"
+  }
+]

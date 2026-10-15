@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/raw/
+local_runs/
+*.joblib
+*.npz
+*.mat
+*.zip
+*.download-part
+.env
+.env.*

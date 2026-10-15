@@ -1,0 +1,257 @@
+[
+  {
+    "dataset": "DB5",
+    "subject": 1,
+    "source_url": "https://ninapro.hevs.ch/files/DB5_Preproc/s1.zip",
+    "local_path": "data/raw/db5_s1.zip",
+    "bytes": 19462713,
+    "sha256": "dcfecd0f86d437ac53711b662332e90815dd7984881712cf9999d3633e4b62b3",
+    "download_date_utc": "2026-10-15",
+    "archive_crc_pass": true,
+    "mat_members": [
+      "s1/S1_E1_A1.mat",
+      "s1/S1_E2_A1.mat",
+      "s1/S1_E3_A1.mat"
+    ],
+    "http_headers_at_download": {},
+    "provider_checksum_verified": true,
+    "md5": "bb63c22179b4a750bac2499aecd72021",
+    "provider_md5": "bb63c22179b4a750bac2499aecd72021",
+    "provider_bytes": 19462713,
+    "checksum_source": "https://zenodo.org/api/records/1000116"
+  },
+  {
+    "dataset": "DB5",
+    "subject": 2,
+    "source_url": "https://ninapro.hevs.ch/files/DB5_Preproc/s2.zip",
+    "local_path": "data/raw/db5_s2.zip",
+    "bytes": 20435979,
+    "sha256": "d92ec71116a132721282bf9aa3d7464e7cb9d1372fd3b010ff1a35f671b1ed36",
+    "download_date_utc": "2026-10-15",
+    "archive_crc_pass": true,
+    "mat_members": [
+      "s2/S2_E1_A1.mat",
+      "s2/S2_E2_A1.mat",
+      "s2/S2_E3_A1.mat"
+    ],
+    "http_headers_at_download": {
+      "Content-Length": "20435979",
+      "Content-Type": "application/zip",
+      "Etag": "\"137d40b-548a338f95e7a\"",
+      "Last-Modified": "Thu, 16 Feb 2017 10:25:56 GMT"
+    },
+    "provider_checksum_verified": true,
+    "md5": "9d91c5a524123e950cd7cab3b42887ae",
+    "provider_md5": "9d91c5a524123e950cd7cab3b42887ae",
+    "provider_bytes": 20435979,
+    "checksum_source": "https://zenodo.org/api/records/1000116"
+  },
+  {
+    "dataset": "DB5",
+    "subject": 3,
+    "source_url": "https://ninapro.hevs.ch/files/DB5_Preproc/s3.zip",
+    "local_path": "data/raw/db5_s3.zip",
+    "bytes": 22098551,
+    "sha256": "1ccb876cb57c44f5a21698f9b8b6ef6fb2323c18ef033914d43412899f21ea04",
+    "download_date_utc": "2026-10-15",
+    "archive_crc_pass": true,
+    "mat_members": [
+      "s3/S3_E1_A1.mat",
+      "s3/S3_E2_A1.mat",
+      "s3/S3_E3_A1.mat"
+    ],
+    "http_headers_at_download": {
+      "Content-Length": "22098551",
+      "Content-Type": "application/zip",
+      "Etag": "\"1513277-548a33a4fe537\"",
+      "Last-Modified": "Thu, 16 Feb 2017 10:26:18 GMT"
+    },
+    "provider_checksum_verified": true,
+    "md5": "700d15737cd5219cf9e9a0370670f246",
+    "provider_md5": "700d15737cd5219cf9e9a0370670f246",
+    "provider_bytes": 22098551,
+    "checksum_source": "https://zenodo.org/api/records/1000116"
+  },
+  {
+    "dataset": "DB5",
+    "subject": 4,
+    "source_url": "https://ninapro.hevs.ch/files/DB5_Preproc/s4.zip",
+    "local_path": "data/raw/db5_s4.zip",
+    "bytes": 19151413,
+    "sha256": "21396a0265f8333082f3f2513f032776fbdd397bcc95c0330e97d04d2356ba19",
+    "download_date_utc": "2026-10-15",
+    "archive_crc_pass": true,
+    "mat_members": [
+      "s4/S4_E1_A1.mat",
+      "s4/S4_E2_A1.mat",
+      "s4/S4_E3_A1.mat"
+    ],
+    "http_headers_at_download": {
+      "Content-Length": "19151413",
+      "Content-Type": "application/zip",
+      "Etag": "\"1243a35-548a34692056f\"",
+      "Last-Modified": "Thu, 16 Feb 2017 10:29:44 GMT"
+    },
+    "provider_checksum_verified": true,
+    "md5": "0eac484016793b28481d786a0f73e270",
+    "provider_md5": "0eac484016793b28481d786a0f73e270",
+    "provider_bytes": 19151413,
+    "checksum_source": "https://zenodo.org/api/records/1000116"
+  },
+  {
+    "dataset": "DB5",
+    "subject": 5,
+    "source_url": "https://ninapro.hevs.ch/files/DB5_Preproc/s5.zip",
+    "local_path": "data/raw/db5_s5.zip",
+    "bytes": 18408716,
+    "sha256": "061291a93c993681070579f17a83065c6e94332c8299eac73ca208e89e1153b5",
+    "download_date_utc": "2026-10-15",
+    "archive_crc_pass": true,
+    "mat_members": [
+      "s5/S5_E1_A1.mat",
+      "s5/S5_E2_A1.mat",
+      "s5/S5_E3_A1.mat"
+    ],
+    "http_headers_at_download": {
+      "Content-Length": "18408716",
+      "Content-Type": "application/zip",
+      "Etag": "\"118e50c-548a33e9e2675\"",
+      "Last-Modified": "Thu, 16 Feb 2017 10:27:30 GMT"
+    },
+    "provider_checksum_verified": true,
+    "md5": "0ff40dd987a67f5b2770671504fc9b23",
+    "provider_md5": "0ff40dd987a67f5b2770671504fc9b23",
+    "provider_bytes": 18408716,
+    "checksum_source": "https://zenodo.org/api/records/1000116"
+  },
+  {
+    "dataset": "DB5",
+    "subject": 6,
+    "source_url": "https://ninapro.hevs.ch/files/DB5_Preproc/s6.zip",
+    "local_path": "data/raw/db5_s6.zip",
+    "bytes": 21606311,
+    "sha256": "a789960a52565929c785630c39c69447fb20667c7467a94156751fe0646eb9ca",
+    "download_date_utc": "2026-10-15",
+    "archive_crc_pass": true,
+    "mat_members": [
+      "s6/S6_E1_A1.mat",
+      "s6/S6_E2_A1.mat",
+      "s6/S6_E3_A1.mat"
+    ],
+    "http_headers_at_download": {
+      "Content-Length": "21606311",
+      "Content-Type": "application/zip",
+      "Etag": "\"149afa7-548a33fef233d\"",
+      "Last-Modified": "Thu, 16 Feb 2017 10:27:53 GMT"
+    },
+    "provider_checksum_verified": true,
+    "md5": "850e853dd6dfd0170fa38189509133d1",
+    "provider_md5": "850e853dd6dfd0170fa38189509133d1",
+    "provider_bytes": 21606311,
+    "checksum_source": "https://zenodo.org/api/records/1000116"
+  },
+  {
+    "dataset": "DB5",
+    "subject": 7,
+    "source_url": "https://ninapro.hevs.ch/files/DB5_Preproc/s7.zip",
+    "local_path": "data/raw/db5_s7.zip",
+    "bytes": 20459169,
+    "sha256": "c93ae271f57e039259e2d73944c6dbe079aa2fb9ef90f2f174c57fe45ada3226",
+    "download_date_utc": "2026-10-15",
+    "archive_crc_pass": true,
+    "mat_members": [
+      "s7/S7_E1_A1.mat",
+      "s7/S7_E2_A1.mat",
+      "s7/S7_E3_A1.mat"
+    ],
+    "http_headers_at_download": {
+      "Content-Length": "20459169",
+      "Content-Type": "application/zip",
+      "Etag": "\"1382ea1-548a341149f66\"",
+      "Last-Modified": "Thu, 16 Feb 2017 10:28:12 GMT"
+    },
+    "provider_checksum_verified": true,
+    "md5": "e55ee99af5fb924a6a8d8500752b6d78",
+    "provider_md5": "e55ee99af5fb924a6a8d8500752b6d78",
+    "provider_bytes": 20459169,
+    "checksum_source": "https://zenodo.org/api/records/1000116"
+  },
+  {
+    "dataset": "DB5",
+    "subject": 8,
+    "source_url": "https://ninapro.hevs.ch/files/DB5_Preproc/s8.zip",
+    "local_path": "data/raw/db5_s8.zip",
+    "bytes": 19729731,
+    "sha256": "274d0bff593a3fac74898b6a16de2fc5637a3c337d19c55e253360ea10fd7b9d",
+    "download_date_utc": "2026-10-15",
+    "archive_crc_pass": true,
+    "mat_members": [
+      "s8/S8_E1_A1.mat",
+      "s8/S8_E2_A1.mat",
+      "s8/S8_E3_A1.mat"
+    ],
+    "http_headers_at_download": {
+      "Content-Length": "19729731",
+      "Content-Type": "application/zip",
+      "Etag": "\"12d0d43-548a342310f2c\"",
+      "Last-Modified": "Thu, 16 Feb 2017 10:28:30 GMT"
+    },
+    "provider_checksum_verified": true,
+    "md5": "281c62eade1ffd58579b57aa36df579d",
+    "provider_md5": "281c62eade1ffd58579b57aa36df579d",
+    "provider_bytes": 19729731,
+    "checksum_source": "https://zenodo.org/api/records/1000116"
+  },
+  {
+    "dataset": "DB5",
+    "subject": 9,
+    "source_url": "https://ninapro.hevs.ch/files/DB5_Preproc/s9.zip",
+    "local_path": "data/raw/db5_s9.zip",
+    "bytes": 20113619,
+    "sha256": "a473278a33451ec97b4efef1b68b37e3856e2cf1e18dafe11c316856610832af",
+    "download_date_utc": "2026-10-15",
+    "archive_crc_pass": true,
+    "mat_members": [
+      "s9/S9_E1_A1.mat",
+      "s9/S9_E2_A1.mat",
+      "s9/S9_E3_A1.mat"
+    ],
+    "http_headers_at_download": {
+      "Content-Length": "20113619",
+      "Content-Type": "application/zip",
+      "Etag": "\"132e8d3-548a343543997\"",
+      "Last-Modified": "Thu, 16 Feb 2017 10:28:50 GMT"
+    },
+    "provider_checksum_verified": true,
+    "md5": "622e562482f5b9c9b10d6cfe7b3d1636",
+    "provider_md5": "622e562482f5b9c9b10d6cfe7b3d1636",
+    "provider_bytes": 20113619,
+    "checksum_source": "https://zenodo.org/api/records/1000116"
+  },
+  {
+    "dataset": "DB5",
+    "subject": 10,
+    "source_url": "https://ninapro.hevs.ch/files/DB5_Preproc/s10.zip",
+    "local_path": "data/raw/db5_s10.zip",
+    "bytes": 20233334,
+    "sha256": "28903042ae3d4ca1dccf9b9c64710eff27670d772ccc5e4bdf7704e1fd4b3a06",
+    "download_date_utc": "2026-10-15",
+    "archive_crc_pass": true,
+    "mat_members": [
+      "s10/S10_E1_A1.mat",
+      "s10/S10_E2_A1.mat",
+      "s10/S10_E3_A1.mat"
+    ],
+    "http_headers_at_download": {
+      "Content-Length": "20233334",
+      "Content-Type": "application/zip",
+      "Etag": "\"134bc76-548a344678d5a\"",
+      "Last-Modified": "Thu, 16 Feb 2017 10:29:08 GMT"
+    },
+    "provider_checksum_verified": true,
+    "md5": "765d22dbe4241c67f3b6dbacf79fc901",
+    "provider_md5": "765d22dbe4241c67f3b6dbacf79fc901",
+    "provider_bytes": 20233334,
+    "checksum_source": "https://zenodo.org/api/records/1000116"
+  }
+]

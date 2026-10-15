@@ -1,0 +1,25 @@
+{
+  "verified_utc": "2026-10-15T17:59:21+00:00",
+  "DB5": {
+    "status": "PASS",
+    "DB5_cases": 23,
+    "DB5_person_method_evaluations": 1288,
+    "stored_or_reused_prediction_hashes_checked": 616,
+    "paired_sensitivity_contrasts_recomputed": 23,
+    "OTVL_calibrations_recorded": 10,
+    "primary_and_selection_records_unchanged": true
+  },
+  "DB2": {
+    "status": "PASS",
+    "DB2_development_people": 8,
+    "DB2_final_people": 32,
+    "native_channels": 12,
+    "native_rate_hz": 2000,
+    "DB2_reselected_families_recomputed": 7,
+    "final_prediction_streams_verified": 608,
+    "paired_replication_contrasts_recomputed": 2,
+    "selection_lock_and_completed_artifact_hashes_verified": true,
+    "independent_native_time_streams_checked": 608,
+    "independent_stable_event_confirmations_checked": 41344
+  }
+}

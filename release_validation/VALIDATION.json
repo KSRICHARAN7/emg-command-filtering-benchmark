@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "reference_python": "3.12",
+  "unit_tests": 51,
+  "unit_tests_executed_without_data_present": true,
+  "DB5_final_people": 8,
+  "DB5_person_methods": 112,
+  "DB5_summary_metric_values_matching_original": 84,
+  "DB2_final_people": 32,
+  "DB2_person_methods": 608,
+  "DB2_summary_metric_values_matching_original": 114,
+  "paired_bootstrap_outputs_exact_match": [
+    "DB5 primary",
+    "DB2 transported",
+    "DB2 reselected"
+  ],
+  "original_final_outcomes_already_exposed": true,
+  "new_untouched_test": false,
+  "public_runner_scope": "Primary DB5 and transported/reselected/fixed DB2 final methods, not full development/sensitivity reruns",
+  "private_link_and_credential_pattern_scan": "PASS",
+  "data_and_fitted_artifacts_excluded": true
+}

@@ -1,0 +1,4034 @@
+[
+  {
+    "subject": 9,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.40555302,
+    "p95_ms": 0.45291475,
+    "max_ms": 0.939873,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.42921386000000006,
+    "p95_ms": 0.4831740499999999,
+    "max_ms": 0.593292,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.38570934,
+    "p95_ms": 0.49685209999999996,
+    "max_ms": 0.637528,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.42441386000000003,
+    "p95_ms": 0.5561712,
+    "max_ms": 1.329308,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.35478724,
+    "p95_ms": 0.4734409,
+    "max_ms": 0.546942,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.33886028,
+    "p95_ms": 0.48813099999999976,
+    "max_ms": 1.469118,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.31487586,
+    "p95_ms": 0.4411410999999999,
+    "max_ms": 0.481524,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.30487448,
+    "p95_ms": 0.4597558999999999,
+    "max_ms": 0.709917,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.34454676,
+    "p95_ms": 0.5772402499999999,
+    "max_ms": 0.800553,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.29057418,
+    "p95_ms": 0.39746869999999995,
+    "max_ms": 0.643497,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.34498967999999997,
+    "p95_ms": 0.5234982,
+    "max_ms": 0.581815,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.33064396,
+    "p95_ms": 0.50652535,
+    "max_ms": 0.630408,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.33945998000000005,
+    "p95_ms": 0.6025260499999999,
+    "max_ms": 0.668444,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.32226154,
+    "p95_ms": 0.4900688999999999,
+    "max_ms": 0.619001,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.27535104,
+    "p95_ms": 0.33311314999999997,
+    "max_ms": 0.598459,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.27066458,
+    "p95_ms": 0.32512585,
+    "max_ms": 0.470708,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.26077548000000006,
+    "p95_ms": 0.3416556,
+    "max_ms": 0.378999,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.25776925999999994,
+    "p95_ms": 0.30622105,
+    "max_ms": 0.461033,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.25796596,
+    "p95_ms": 0.3002971499999999,
+    "max_ms": 0.491509,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.27455938,
+    "p95_ms": 0.36524739999999994,
+    "max_ms": 0.551509,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.29252907999999994,
+    "p95_ms": 0.40343829999999997,
+    "max_ms": 1.269468,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.24726616,
+    "p95_ms": 0.2760121,
+    "max_ms": 0.336036,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.29036742,
+    "p95_ms": 0.4516633499999999,
+    "max_ms": 0.534774,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.30443602,
+    "p95_ms": 0.4896918999999998,
+    "max_ms": 0.857418,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.27278778,
+    "p95_ms": 0.38864175,
+    "max_ms": 0.429706,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.25516930000000004,
+    "p95_ms": 0.31522649999999985,
+    "max_ms": 0.357087,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.25640734,
+    "p95_ms": 0.3032697499999999,
+    "max_ms": 0.369054,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.273415,
+    "p95_ms": 0.3323289,
+    "max_ms": 0.559061,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 11,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.27327274,
+    "p95_ms": 0.34552689999999997,
+    "max_ms": 0.595275,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 11,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.27261728,
+    "p95_ms": 0.34026045,
+    "max_ms": 0.455044,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 11,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.2958887,
+    "p95_ms": 0.4259606999999999,
+    "max_ms": 0.6725,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 11,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.27107034,
+    "p95_ms": 0.3402116499999999,
+    "max_ms": 0.568195,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 11,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.2736539,
+    "p95_ms": 0.3966201999999997,
+    "max_ms": 0.484538,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 11,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.2558195,
+    "p95_ms": 0.31937219999999994,
+    "max_ms": 0.407443,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 11,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.26898086,
+    "p95_ms": 0.3454009,
+    "max_ms": 0.380882,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 11,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.26703418,
+    "p95_ms": 0.37237775,
+    "max_ms": 0.434523,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 11,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.26928992,
+    "p95_ms": 0.35903074999999995,
+    "max_ms": 0.398679,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 11,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.2568138,
+    "p95_ms": 0.31296725000000003,
+    "max_ms": 0.382195,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 11,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.25732387999999995,
+    "p95_ms": 0.31147129999999995,
+    "max_ms": 0.444918,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 11,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.27086586,
+    "p95_ms": 0.35056249999999994,
+    "max_ms": 0.554494,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 11,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.32169756,
+    "p95_ms": 0.38372314999999996,
+    "max_ms": 2.385505,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 11,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.25120756,
+    "p95_ms": 0.29156329999999997,
+    "max_ms": 0.304528,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 12,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.27282493999999996,
+    "p95_ms": 0.38700189999999984,
+    "max_ms": 0.644278,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 12,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.26528856,
+    "p95_ms": 0.3345427999999999,
+    "max_ms": 0.458559,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 12,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.26387373999999997,
+    "p95_ms": 0.3181427,
+    "max_ms": 0.44586,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 12,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.27158025999999996,
+    "p95_ms": 0.3665296,
+    "max_ms": 0.625551,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 12,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.28242428,
+    "p95_ms": 0.3834720499999999,
+    "max_ms": 0.604258,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 12,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.28057234000000003,
+    "p95_ms": 0.4071859999999999,
+    "max_ms": 0.667263,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 12,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.25868602,
+    "p95_ms": 0.34646289999999996,
+    "max_ms": 0.414733,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 12,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.27248353999999997,
+    "p95_ms": 0.4297248999999997,
+    "max_ms": 0.627963,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 12,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.2646612,
+    "p95_ms": 0.3483006999999999,
+    "max_ms": 0.374142,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 12,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.2526737,
+    "p95_ms": 0.3144401,
+    "max_ms": 0.44623,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 12,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.25203699999999996,
+    "p95_ms": 0.29219249999999997,
+    "max_ms": 0.385689,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 12,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.27137582,
+    "p95_ms": 0.37338134999999995,
+    "max_ms": 0.547653,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 12,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.27786374,
+    "p95_ms": 0.4200165999999995,
+    "max_ms": 0.779942,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 12,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.25847606,
+    "p95_ms": 0.3356941499999998,
+    "max_ms": 0.396275,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 13,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.43743776000000006,
+    "p95_ms": 1.1831371499999972,
+    "max_ms": 2.981311,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 13,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.30883457999999997,
+    "p95_ms": 0.5538272999999998,
+    "max_ms": 0.7185,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 13,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.33283768,
+    "p95_ms": 0.5312386,
+    "max_ms": 1.691928,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 13,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.30669088,
+    "p95_ms": 0.5433439,
+    "max_ms": 0.550818,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 13,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.4082107,
+    "p95_ms": 0.6261656499999998,
+    "max_ms": 3.942816,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 13,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.26609992,
+    "p95_ms": 0.3102203,
+    "max_ms": 0.39941,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 13,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.28034966,
+    "p95_ms": 0.3651538999999999,
+    "max_ms": 0.448754,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 13,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.27961224,
+    "p95_ms": 0.38029609999999986,
+    "max_ms": 0.584298,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 13,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.28328394,
+    "p95_ms": 0.3988482999999999,
+    "max_ms": 0.751229,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 13,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28445652000000005,
+    "p95_ms": 0.37028705,
+    "max_ms": 0.549426,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 13,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.25378756,
+    "p95_ms": 0.30319509999999994,
+    "max_ms": 0.322174,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 13,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.42215017999999993,
+    "p95_ms": 0.4376031999999999,
+    "max_ms": 3.591818,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 13,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.31901192,
+    "p95_ms": 0.4034539,
+    "max_ms": 0.544068,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 13,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.26405684,
+    "p95_ms": 0.38988664999999995,
+    "max_ms": 0.498179,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 14,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.30788365999999995,
+    "p95_ms": 0.5268878499999999,
+    "max_ms": 0.843247,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 14,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.34264676,
+    "p95_ms": 0.5265885499999999,
+    "max_ms": 0.916587,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 14,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.37566008000000006,
+    "p95_ms": 0.7237951999999992,
+    "max_ms": 3.081281,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 14,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.27022248,
+    "p95_ms": 0.34205425,
+    "max_ms": 0.390918,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 14,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.2549662,
+    "p95_ms": 0.32385209999999975,
+    "max_ms": 0.380141,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 14,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.26126278000000003,
+    "p95_ms": 0.3408275999999999,
+    "max_ms": 0.407913,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 14,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.28091502,
+    "p95_ms": 0.38180715,
+    "max_ms": 0.569326,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 14,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.26633772,
+    "p95_ms": 0.3458747,
+    "max_ms": 0.525189,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 14,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.25128133999999996,
+    "p95_ms": 0.27828975,
+    "max_ms": 0.309906,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 14,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.25891078,
+    "p95_ms": 0.2948664,
+    "max_ms": 0.608304,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 14,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.26249597999999996,
+    "p95_ms": 0.34317599999999987,
+    "max_ms": 0.43899,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 14,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.28751509999999997,
+    "p95_ms": 0.4057447499999999,
+    "max_ms": 0.722836,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 14,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.27638078000000005,
+    "p95_ms": 0.32750644999999995,
+    "max_ms": 0.583628,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 14,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.3010127,
+    "p95_ms": 0.51976735,
+    "max_ms": 0.610378,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 15,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.3335114,
+    "p95_ms": 0.49225395,
+    "max_ms": 0.688064,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 15,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.3048053599999999,
+    "p95_ms": 0.4840867,
+    "max_ms": 0.581925,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 15,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.31355124,
+    "p95_ms": 0.48428969999999977,
+    "max_ms": 0.606361,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 15,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28973644,
+    "p95_ms": 0.39063335,
+    "max_ms": 0.682826,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 15,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.32393616000000003,
+    "p95_ms": 0.44445729999999983,
+    "max_ms": 1.632363,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 15,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.3092313,
+    "p95_ms": 0.48895644999999976,
+    "max_ms": 0.561053,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 15,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.34083202,
+    "p95_ms": 0.4154145,
+    "max_ms": 0.495124,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 15,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.3582715999999999,
+    "p95_ms": 0.4051752999999999,
+    "max_ms": 0.476737,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 15,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.30974936,
+    "p95_ms": 0.4144406499999999,
+    "max_ms": 0.523547,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 15,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.3123148,
+    "p95_ms": 0.4548165499999996,
+    "max_ms": 2.334939,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 15,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28299818000000004,
+    "p95_ms": 0.3515631,
+    "max_ms": 0.512541,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 15,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.28181291999999997,
+    "p95_ms": 0.43673894999999996,
+    "max_ms": 0.503396,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 15,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.30526858000000007,
+    "p95_ms": 0.41561745,
+    "max_ms": 1.664852,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 15,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.29479069999999996,
+    "p95_ms": 0.41715834999999984,
+    "max_ms": 0.814113,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 16,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.32416694,
+    "p95_ms": 0.4936372499999999,
+    "max_ms": 0.595525,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 16,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.30408546000000003,
+    "p95_ms": 0.516125,
+    "max_ms": 0.622496,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 16,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.26703034,
+    "p95_ms": 0.35330294999999995,
+    "max_ms": 0.422525,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 16,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.26498088,
+    "p95_ms": 0.35200039999999994,
+    "max_ms": 0.384398,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 16,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.29554112,
+    "p95_ms": 0.48072099999999973,
+    "max_ms": 0.572301,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 16,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.28167818000000006,
+    "p95_ms": 0.39613529999999986,
+    "max_ms": 0.552511,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 16,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.27567874,
+    "p95_ms": 0.39683299999999994,
+    "max_ms": 0.570948,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 16,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.2716695,
+    "p95_ms": 0.3727228,
+    "max_ms": 0.581814,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 16,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.30714698,
+    "p95_ms": 0.4666917999999999,
+    "max_ms": 0.581694,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 16,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.27786700000000003,
+    "p95_ms": 0.36092449999999987,
+    "max_ms": 0.515294,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 16,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.26604026000000003,
+    "p95_ms": 0.3531333499999998,
+    "max_ms": 0.531319,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 16,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.28784848,
+    "p95_ms": 0.3843876499999999,
+    "max_ms": 0.458069,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 16,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.27995677999999996,
+    "p95_ms": 0.37091165,
+    "max_ms": 0.500592,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 16,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.28795816,
+    "p95_ms": 0.3738189,
+    "max_ms": 0.659171,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 17,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.27613681999999995,
+    "p95_ms": 0.39591394999999996,
+    "max_ms": 0.623938,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 17,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.31002676,
+    "p95_ms": 0.4888643499999999,
+    "max_ms": 0.621534,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 17,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.25235243999999996,
+    "p95_ms": 0.30482234999999996,
+    "max_ms": 0.341473,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 17,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.27629368000000004,
+    "p95_ms": 0.41616204999999995,
+    "max_ms": 0.457267,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 17,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.28522708,
+    "p95_ms": 0.4060034999999999,
+    "max_ms": 0.465901,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 17,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.26536138000000004,
+    "p95_ms": 0.33630775,
+    "max_ms": 0.375084,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 17,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.26564566,
+    "p95_ms": 0.37236339999999996,
+    "max_ms": 0.381323,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 17,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.29392798000000003,
+    "p95_ms": 0.43379074999999995,
+    "max_ms": 0.586322,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 17,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.28282986000000004,
+    "p95_ms": 0.37966239999999996,
+    "max_ms": 0.435214,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 17,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.2675239,
+    "p95_ms": 0.33875934999999996,
+    "max_ms": 0.563397,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 17,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.2636554,
+    "p95_ms": 0.34222354999999993,
+    "max_ms": 0.489346,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 17,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.30713724,
+    "p95_ms": 0.46955444999999996,
+    "max_ms": 0.601864,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 17,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.43187742,
+    "p95_ms": 1.05388535,
+    "max_ms": 1.445733,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 17,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.32189557999999996,
+    "p95_ms": 0.47273805,
+    "max_ms": 0.681464,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 18,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.30605287999999997,
+    "p95_ms": 0.45157979999999986,
+    "max_ms": 0.73228,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 18,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.26379784,
+    "p95_ms": 0.30521465,
+    "max_ms": 0.381113,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 18,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.26310444000000005,
+    "p95_ms": 0.35227509999999984,
+    "max_ms": 0.387552,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 18,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.27059568,
+    "p95_ms": 0.40269364999999996,
+    "max_ms": 0.487793,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 18,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.25962434,
+    "p95_ms": 0.3059756499999999,
+    "max_ms": 0.495535,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 18,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.26303916,
+    "p95_ms": 0.31786129999999996,
+    "max_ms": 0.349375,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 18,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.27406707999999996,
+    "p95_ms": 0.3563005499999999,
+    "max_ms": 0.533211,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 18,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.28799466,
+    "p95_ms": 0.4625926999999999,
+    "max_ms": 0.563016,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 18,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.27546479999999995,
+    "p95_ms": 0.38357205,
+    "max_ms": 0.536366,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 18,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.25736998000000005,
+    "p95_ms": 0.3297749499999998,
+    "max_ms": 0.541263,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 18,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.26967564000000005,
+    "p95_ms": 0.3835615,
+    "max_ms": 0.601304,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 18,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.26140868000000006,
+    "p95_ms": 0.32481304999999994,
+    "max_ms": 0.446521,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 18,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.28793406,
+    "p95_ms": 0.4357536499999999,
+    "max_ms": 0.491469,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 18,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.25215803999999997,
+    "p95_ms": 0.2827173,
+    "max_ms": 0.393461,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 19,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.30323081999999996,
+    "p95_ms": 0.42741469999999987,
+    "max_ms": 0.700563,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 19,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.2880992,
+    "p95_ms": 0.4420821,
+    "max_ms": 0.483787,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 19,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.29182958,
+    "p95_ms": 0.40226185,
+    "max_ms": 0.876868,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 19,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.3101369,
+    "p95_ms": 0.5329992999999998,
+    "max_ms": 0.623007,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 19,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.3108826,
+    "p95_ms": 0.46430144999999995,
+    "max_ms": 0.598359,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 19,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.3335495,
+    "p95_ms": 0.5280980499999998,
+    "max_ms": 1.772214,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 19,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.27274952,
+    "p95_ms": 0.34040305,
+    "max_ms": 0.752521,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 19,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.30492643999999997,
+    "p95_ms": 0.47411359999999975,
+    "max_ms": 0.575905,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 19,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.38047678000000007,
+    "p95_ms": 0.44317575,
+    "max_ms": 0.493252,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 19,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.37406944,
+    "p95_ms": 0.43891215,
+    "max_ms": 0.463837,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 19,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.2797475,
+    "p95_ms": 0.37728245,
+    "max_ms": 0.663147,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 19,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.2640715,
+    "p95_ms": 0.3506737,
+    "max_ms": 0.397317,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 19,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.26603267999999997,
+    "p95_ms": 0.3401314999999999,
+    "max_ms": 0.39946,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 19,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.25649434,
+    "p95_ms": 0.3101718,
+    "max_ms": 0.440472,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 20,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.31033462,
+    "p95_ms": 0.41921669999999994,
+    "max_ms": 0.905291,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 20,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.29233216,
+    "p95_ms": 0.38561159999999994,
+    "max_ms": 0.530157,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 20,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28954366,
+    "p95_ms": 0.46532765,
+    "max_ms": 0.518239,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 20,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28424098000000003,
+    "p95_ms": 0.3989651999999999,
+    "max_ms": 0.487102,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 20,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.31246276,
+    "p95_ms": 0.5013511499999999,
+    "max_ms": 0.719241,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 20,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.30278044000000004,
+    "p95_ms": 0.4552354999999998,
+    "max_ms": 0.55211,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 20,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.3166743,
+    "p95_ms": 0.4981725499999995,
+    "max_ms": 0.962597,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 20,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.31002683999999997,
+    "p95_ms": 0.5561602999999999,
+    "max_ms": 0.717539,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 20,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.28356882,
+    "p95_ms": 0.3875508499999998,
+    "max_ms": 0.525239,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 20,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.32579462,
+    "p95_ms": 0.42182149999999985,
+    "max_ms": 2.092445,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 20,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.2779738,
+    "p95_ms": 0.4581519499999998,
+    "max_ms": 0.56538,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 20,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.2921161,
+    "p95_ms": 0.4312988,
+    "max_ms": 0.509295,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 20,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.28941462,
+    "p95_ms": 0.4253919999999999,
+    "max_ms": 0.601034,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 20,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.31397284,
+    "p95_ms": 0.49800025,
+    "max_ms": 0.586091,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 21,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.5175258,
+    "p95_ms": 2.1528302499999983,
+    "max_ms": 3.168206,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 21,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.33046925999999993,
+    "p95_ms": 0.5496812999999998,
+    "max_ms": 0.71877,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 21,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.32732472,
+    "p95_ms": 0.43743709999999986,
+    "max_ms": 1.848078,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 21,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.33041043999999997,
+    "p95_ms": 0.40358924999999995,
+    "max_ms": 2.596522,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 21,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.3251954800000001,
+    "p95_ms": 0.5266072499999995,
+    "max_ms": 1.481516,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 21,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.3135311800000001,
+    "p95_ms": 0.5060197999999999,
+    "max_ms": 0.799051,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 21,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.27756346,
+    "p95_ms": 0.44980824999999997,
+    "max_ms": 0.567753,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 21,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.2958098,
+    "p95_ms": 0.44074409999999997,
+    "max_ms": 0.604729,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 21,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.32979591999999996,
+    "p95_ms": 0.43935539999999995,
+    "max_ms": 0.726362,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 21,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.31752826,
+    "p95_ms": 0.4909724499999998,
+    "max_ms": 0.714834,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 21,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28138792,
+    "p95_ms": 0.3882915999999999,
+    "max_ms": 0.47275,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 21,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.325442,
+    "p95_ms": 0.5174766999999999,
+    "max_ms": 0.634935,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 21,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.37979624,
+    "p95_ms": 0.7787306499999986,
+    "max_ms": 2.487288,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 21,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.30445146,
+    "p95_ms": 0.468599,
+    "max_ms": 0.56533,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 22,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.32554204,
+    "p95_ms": 0.5304355999999998,
+    "max_ms": 1.321275,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 22,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.39739354,
+    "p95_ms": 1.3563708999999995,
+    "max_ms": 1.498572,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 22,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28312726,
+    "p95_ms": 0.38310564999999996,
+    "max_ms": 0.400151,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 22,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.32517558,
+    "p95_ms": 0.4996124999999997,
+    "max_ms": 1.335598,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 22,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.37741076,
+    "p95_ms": 0.6349581499999998,
+    "max_ms": 1.560405,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 22,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.37536833999999997,
+    "p95_ms": 0.4516371999999999,
+    "max_ms": 2.407298,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 22,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.35927076,
+    "p95_ms": 0.5080633,
+    "max_ms": 1.818132,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 22,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.36894004,
+    "p95_ms": 1.0281399999999976,
+    "max_ms": 1.814957,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 22,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.34904958,
+    "p95_ms": 0.45636594999999996,
+    "max_ms": 1.573364,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 22,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.2822658,
+    "p95_ms": 0.34820864999999995,
+    "max_ms": 0.572351,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 22,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.33948957999999996,
+    "p95_ms": 0.4626011999999999,
+    "max_ms": 1.715228,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 22,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.33347179999999993,
+    "p95_ms": 0.4880964999999999,
+    "max_ms": 1.761938,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 22,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.34825569999999995,
+    "p95_ms": 0.5342748499999996,
+    "max_ms": 1.424911,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 22,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.31030599999999997,
+    "p95_ms": 0.4205112,
+    "max_ms": 2.016992,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 23,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.31870719999999997,
+    "p95_ms": 0.48607769999999983,
+    "max_ms": 0.690377,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 23,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.31424601999999996,
+    "p95_ms": 0.40869989999999995,
+    "max_ms": 0.993072,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 23,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.29951076,
+    "p95_ms": 0.5257322,
+    "max_ms": 0.625871,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 23,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.31183552000000003,
+    "p95_ms": 0.5274891999999997,
+    "max_ms": 1.06436,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 23,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.30004482,
+    "p95_ms": 0.3495165,
+    "max_ms": 1.614296,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 23,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.28068417999999995,
+    "p95_ms": 0.40899879999999994,
+    "max_ms": 0.45231,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 23,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.30140816000000004,
+    "p95_ms": 0.43561374999999986,
+    "max_ms": 0.575695,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 23,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.44919968000000005,
+    "p95_ms": 0.9723707999999999,
+    "max_ms": 5.112384,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 23,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.31402663999999997,
+    "p95_ms": 0.44542429999999994,
+    "max_ms": 1.208236,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 23,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28673572,
+    "p95_ms": 0.4022951,
+    "max_ms": 0.666352,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 23,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.3203602400000001,
+    "p95_ms": 0.49306019999999984,
+    "max_ms": 0.989387,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 23,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.32113324,
+    "p95_ms": 0.4456590499999999,
+    "max_ms": 0.893383,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 23,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.35649866,
+    "p95_ms": 0.5879402499999996,
+    "max_ms": 2.426337,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 23,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.36419934000000004,
+    "p95_ms": 0.6948415999999994,
+    "max_ms": 1.334385,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 24,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.37031256000000007,
+    "p95_ms": 0.4031397,
+    "max_ms": 0.760012,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 24,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.32909762,
+    "p95_ms": 0.4022812,
+    "max_ms": 0.712391,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 24,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.29232336,
+    "p95_ms": 0.38577429999999996,
+    "max_ms": 0.638119,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 24,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.29292001999999995,
+    "p95_ms": 0.4496916499999998,
+    "max_ms": 0.5456,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 24,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.29854978,
+    "p95_ms": 0.4307899499999999,
+    "max_ms": 0.5653,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 24,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.37288444000000004,
+    "p95_ms": 0.5245966,
+    "max_ms": 0.972491,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 24,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.30441707999999995,
+    "p95_ms": 0.40958825,
+    "max_ms": 0.517919,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 24,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.31535478,
+    "p95_ms": 0.4492012,
+    "max_ms": 0.611739,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 24,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.32833934,
+    "p95_ms": 0.6367708499999999,
+    "max_ms": 0.749537,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 24,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.3199173,
+    "p95_ms": 0.48952754999999976,
+    "max_ms": 0.616106,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 24,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.29012499999999997,
+    "p95_ms": 0.42710859999999995,
+    "max_ms": 0.622716,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 24,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.31243222,
+    "p95_ms": 0.4863970499999999,
+    "max_ms": 0.568064,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 24,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.27508798,
+    "p95_ms": 0.34914235,
+    "max_ms": 0.383757,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 24,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.28553352,
+    "p95_ms": 0.38513315000000004,
+    "max_ms": 0.543447,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 25,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.34016264000000007,
+    "p95_ms": 0.5299404999999997,
+    "max_ms": 1.492524,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 25,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.2994347,
+    "p95_ms": 0.40756939999999997,
+    "max_ms": 0.552801,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 25,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.37638368,
+    "p95_ms": 0.7716116499999999,
+    "max_ms": 0.993063,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 25,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.41161983999999996,
+    "p95_ms": 0.66470425,
+    "max_ms": 2.410193,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 25,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.38758714000000005,
+    "p95_ms": 0.7335039499999989,
+    "max_ms": 1.881107,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 25,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.34464238,
+    "p95_ms": 0.592726,
+    "max_ms": 0.947554,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 25,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.29408681999999997,
+    "p95_ms": 0.4293480499999999,
+    "max_ms": 0.560933,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 25,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.32251529999999995,
+    "p95_ms": 0.4982015999999998,
+    "max_ms": 1.187524,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 25,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.29397799999999996,
+    "p95_ms": 0.38854944999999996,
+    "max_ms": 0.453291,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 25,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.37588926,
+    "p95_ms": 0.884285249999999,
+    "max_ms": 1.165031,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 25,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.3753089,
+    "p95_ms": 0.6721843999999998,
+    "max_ms": 2.143702,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 25,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.45418108,
+    "p95_ms": 1.4916513,
+    "max_ms": 2.042745,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 25,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.30131865999999996,
+    "p95_ms": 0.4612664999999998,
+    "max_ms": 0.569386,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 25,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.39109855999999993,
+    "p95_ms": 0.7327014999999999,
+    "max_ms": 1.03119,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 26,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.28653014,
+    "p95_ms": 0.3902587,
+    "max_ms": 0.576527,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 26,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.30498334,
+    "p95_ms": 0.44290894999999986,
+    "max_ms": 0.552951,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 26,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.29295210000000005,
+    "p95_ms": 0.39962775,
+    "max_ms": 0.441944,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 26,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.32254059999999996,
+    "p95_ms": 0.44496689999999983,
+    "max_ms": 1.42407,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 26,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.35737072,
+    "p95_ms": 0.7206709999999992,
+    "max_ms": 1.626315,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 26,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.31192372,
+    "p95_ms": 0.4742224999999998,
+    "max_ms": 0.561483,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 26,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.3054785,
+    "p95_ms": 0.40694759999999996,
+    "max_ms": 1.329077,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 26,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.285271,
+    "p95_ms": 0.4046469999999999,
+    "max_ms": 0.479671,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 26,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.64236588,
+    "p95_ms": 3.3874527,
+    "max_ms": 3.514081,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 26,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.5583777400000001,
+    "p95_ms": 2.303055949999993,
+    "max_ms": 4.439762,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 26,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.36396798,
+    "p95_ms": 0.40975224999999993,
+    "max_ms": 0.45903,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 26,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.32318474,
+    "p95_ms": 0.40769275,
+    "max_ms": 0.422725,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 26,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.28956552,
+    "p95_ms": 0.38700219999999996,
+    "max_ms": 0.43261,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 26,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.4022965599999999,
+    "p95_ms": 0.4614896,
+    "max_ms": 1.292402,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 27,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.34877486,
+    "p95_ms": 0.5268232999999999,
+    "max_ms": 1.277791,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 27,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.34361405999999994,
+    "p95_ms": 0.5946005999999999,
+    "max_ms": 1.215968,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 27,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.31195762,
+    "p95_ms": 0.5398194,
+    "max_ms": 0.61216,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 27,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.40130786,
+    "p95_ms": 0.5909326999999998,
+    "max_ms": 2.915281,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 27,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.34130636,
+    "p95_ms": 0.6027777999999999,
+    "max_ms": 1.053753,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 27,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.30638161999999997,
+    "p95_ms": 0.42967944999999996,
+    "max_ms": 0.524659,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 27,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.30919106,
+    "p95_ms": 0.4984375499999998,
+    "max_ms": 0.668234,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 27,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.2875636,
+    "p95_ms": 0.4709526999999999,
+    "max_ms": 0.773613,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 27,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.31034040000000007,
+    "p95_ms": 0.47949734999999977,
+    "max_ms": 0.648765,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 27,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.29758682000000003,
+    "p95_ms": 0.41588889999999995,
+    "max_ms": 0.559681,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 27,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.32741784,
+    "p95_ms": 0.51001585,
+    "max_ms": 0.658109,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 27,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.3293252,
+    "p95_ms": 0.5853628499999999,
+    "max_ms": 0.966332,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 27,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.32434472,
+    "p95_ms": 0.5103255499999999,
+    "max_ms": 0.719762,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 27,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.28885531999999997,
+    "p95_ms": 0.42645315,
+    "max_ms": 0.440712,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 28,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.39671936,
+    "p95_ms": 0.5603203999999998,
+    "max_ms": 2.413828,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 28,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.37540318,
+    "p95_ms": 0.4514954999999999,
+    "max_ms": 0.534814,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 28,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.3648786,
+    "p95_ms": 0.4173332,
+    "max_ms": 0.442615,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 28,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.3689853,
+    "p95_ms": 0.41343644999999996,
+    "max_ms": 0.608314,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 28,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.35483600000000004,
+    "p95_ms": 0.394248,
+    "max_ms": 0.418519,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 28,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.36212822,
+    "p95_ms": 0.41954904999999987,
+    "max_ms": 0.473611,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 28,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.36022958000000005,
+    "p95_ms": 0.42650849999999996,
+    "max_ms": 0.715185,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 28,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.3023382,
+    "p95_ms": 0.5522909999999999,
+    "max_ms": 0.654023,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 28,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.32001820000000003,
+    "p95_ms": 0.49813279999999993,
+    "max_ms": 0.59833,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 28,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.2653858,
+    "p95_ms": 0.330661,
+    "max_ms": 0.402816,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 28,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.26494636000000005,
+    "p95_ms": 0.3404704499999999,
+    "max_ms": 0.541484,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 28,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.27564153999999996,
+    "p95_ms": 0.3821021499999997,
+    "max_ms": 0.478119,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 28,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.28998840000000004,
+    "p95_ms": 0.4140591999999999,
+    "max_ms": 0.780823,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 28,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.29130954,
+    "p95_ms": 0.42053169999999995,
+    "max_ms": 0.446751,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 29,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.36159241999999997,
+    "p95_ms": 0.5872828,
+    "max_ms": 2.390753,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 29,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.33716634,
+    "p95_ms": 0.5471140999999998,
+    "max_ms": 0.85852,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 29,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.31425468,
+    "p95_ms": 0.47777434999999996,
+    "max_ms": 0.624769,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 29,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.30580578,
+    "p95_ms": 0.46789014999999995,
+    "max_ms": 0.568274,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 29,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.3054491,
+    "p95_ms": 0.5090217499999998,
+    "max_ms": 0.573542,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 29,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.3168069,
+    "p95_ms": 0.5214572,
+    "max_ms": 0.795866,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 29,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.29890101999999996,
+    "p95_ms": 0.453811,
+    "max_ms": 0.600292,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 29,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.29541276,
+    "p95_ms": 0.47692434999999983,
+    "max_ms": 0.645149,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 29,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.27557016000000006,
+    "p95_ms": 0.39624584999999996,
+    "max_ms": 0.500763,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 29,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.31298526000000004,
+    "p95_ms": 0.43199495,
+    "max_ms": 0.556737,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 29,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.3012808,
+    "p95_ms": 0.4205394499999999,
+    "max_ms": 0.561264,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 29,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.31999548,
+    "p95_ms": 0.5121575999999997,
+    "max_ms": 0.746172,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 29,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.31447144,
+    "p95_ms": 0.5518078499999995,
+    "max_ms": 0.622897,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 29,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.37419476,
+    "p95_ms": 0.8090519499999991,
+    "max_ms": 1.312483,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 30,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.31028484000000006,
+    "p95_ms": 0.4056995999999999,
+    "max_ms": 0.743385,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 30,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.33477767999999997,
+    "p95_ms": 0.54195175,
+    "max_ms": 0.588103,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 30,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.32753667999999997,
+    "p95_ms": 0.4602038499999998,
+    "max_ms": 0.995234,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 30,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.30975152,
+    "p95_ms": 0.423015,
+    "max_ms": 0.614402,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 30,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.32334568,
+    "p95_ms": 0.48959705,
+    "max_ms": 0.532119,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 30,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.28369108,
+    "p95_ms": 0.38530654999999997,
+    "max_ms": 0.408232,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 30,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.5389225400000001,
+    "p95_ms": 2.0813095499999976,
+    "max_ms": 3.366809,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 30,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.32656887999999995,
+    "p95_ms": 0.5346318499999999,
+    "max_ms": 0.681904,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 30,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.36227126,
+    "p95_ms": 0.5749884999999999,
+    "max_ms": 0.641263,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 30,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.3542541,
+    "p95_ms": 0.4011546,
+    "max_ms": 0.560511,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 30,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.35037204000000005,
+    "p95_ms": 0.38412245,
+    "max_ms": 0.415794,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 30,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.33769216,
+    "p95_ms": 0.3875786,
+    "max_ms": 0.427853,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 30,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.35665688,
+    "p95_ms": 0.40562305,
+    "max_ms": 0.45932,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 30,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.3582413200000001,
+    "p95_ms": 0.40388289999999993,
+    "max_ms": 0.433701,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 31,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.27865769999999995,
+    "p95_ms": 0.4049585999999999,
+    "max_ms": 0.609425,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 31,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.28815258,
+    "p95_ms": 0.39486554999999995,
+    "max_ms": 0.516485,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 31,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28341966,
+    "p95_ms": 0.38258549999999997,
+    "max_ms": 0.563716,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 31,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.2721383,
+    "p95_ms": 0.34341815,
+    "max_ms": 0.530816,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 31,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.28601388,
+    "p95_ms": 0.44600314999999985,
+    "max_ms": 0.557397,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 31,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.27455258000000005,
+    "p95_ms": 0.3644079999999999,
+    "max_ms": 0.46604,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 31,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.2951716,
+    "p95_ms": 0.4443748999999999,
+    "max_ms": 0.504347,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 31,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.36988658,
+    "p95_ms": 0.6574830999999999,
+    "max_ms": 1.062234,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 31,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.28571262,
+    "p95_ms": 0.37328659999999997,
+    "max_ms": 0.587271,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 31,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.33550458,
+    "p95_ms": 0.5416162499999998,
+    "max_ms": 1.217448,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 31,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.39017074,
+    "p95_ms": 0.6912631999999999,
+    "max_ms": 1.102676,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 31,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.38025492,
+    "p95_ms": 0.5615429,
+    "max_ms": 0.800041,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 31,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.39153530000000003,
+    "p95_ms": 0.6917607999999993,
+    "max_ms": 0.995504,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 31,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.39067544,
+    "p95_ms": 0.5751343,
+    "max_ms": 0.771127,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 32,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.34698468,
+    "p95_ms": 0.5491854999999999,
+    "max_ms": 0.686761,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 32,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.3541225600000001,
+    "p95_ms": 0.6601839499999997,
+    "max_ms": 0.816236,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 32,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.30302492000000003,
+    "p95_ms": 0.4289475499999999,
+    "max_ms": 0.481593,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 32,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.36616466000000003,
+    "p95_ms": 0.5493916,
+    "max_ms": 2.319182,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 32,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.36959584,
+    "p95_ms": 0.66447715,
+    "max_ms": 0.897026,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 32,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.34048843999999995,
+    "p95_ms": 0.5311648999999998,
+    "max_ms": 0.676766,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 32,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.38141624,
+    "p95_ms": 0.6531886499999999,
+    "max_ms": 0.949806,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 32,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.35668389999999994,
+    "p95_ms": 0.39877745,
+    "max_ms": 0.409515,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 32,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.37118010000000007,
+    "p95_ms": 0.42398919999999996,
+    "max_ms": 0.467332,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 32,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.35242577999999997,
+    "p95_ms": 0.38450154999999997,
+    "max_ms": 0.42574,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 32,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.35073457999999996,
+    "p95_ms": 0.38853329999999997,
+    "max_ms": 0.420591,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 32,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.34999936,
+    "p95_ms": 0.4297331999999999,
+    "max_ms": 0.527522,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 32,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.34582816,
+    "p95_ms": 0.64779055,
+    "max_ms": 0.747712,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 32,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.29029452,
+    "p95_ms": 0.4415045499999999,
+    "max_ms": 0.531758,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 33,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.31896966,
+    "p95_ms": 0.5185365,
+    "max_ms": 0.635764,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 33,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.29718690000000003,
+    "p95_ms": 0.40950834999999997,
+    "max_ms": 0.591838,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 33,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.31225214000000007,
+    "p95_ms": 0.48880065,
+    "max_ms": 0.641102,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 33,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28191301999999996,
+    "p95_ms": 0.40160195,
+    "max_ms": 0.417807,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 33,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.31062475999999994,
+    "p95_ms": 0.5269954499999999,
+    "max_ms": 0.599851,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 33,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.3132606,
+    "p95_ms": 0.57454045,
+    "max_ms": 0.970527,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 33,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.29105978,
+    "p95_ms": 0.45372674999999996,
+    "max_ms": 0.563286,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 33,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.29664806,
+    "p95_ms": 0.47222555,
+    "max_ms": 0.632539,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 33,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.29592598000000003,
+    "p95_ms": 0.4395376999999999,
+    "max_ms": 0.627602,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 33,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28215284,
+    "p95_ms": 0.39956629999999993,
+    "max_ms": 0.445439,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 33,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.36253638000000005,
+    "p95_ms": 0.6338469499999998,
+    "max_ms": 2.129837,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 33,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.32092335999999994,
+    "p95_ms": 0.5219629999999997,
+    "max_ms": 0.740361,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 33,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.3704385,
+    "p95_ms": 0.6220882999999995,
+    "max_ms": 0.770166,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 33,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.29073186,
+    "p95_ms": 0.48884204999999986,
+    "max_ms": 0.577768,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 34,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.31327975999999996,
+    "p95_ms": 0.50222495,
+    "max_ms": 1.021609,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 34,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.29334606,
+    "p95_ms": 0.40344089999999994,
+    "max_ms": 0.534662,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 34,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28901946,
+    "p95_ms": 0.40209104999999995,
+    "max_ms": 0.46617,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 34,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.27626136,
+    "p95_ms": 0.4485115999999998,
+    "max_ms": 0.564417,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 34,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.24751156,
+    "p95_ms": 0.27342125,
+    "max_ms": 0.330757,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 34,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.29374056,
+    "p95_ms": 0.44036659999999994,
+    "max_ms": 0.517767,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 34,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.2634093,
+    "p95_ms": 0.32326805,
+    "max_ms": 0.360581,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 34,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.2615919,
+    "p95_ms": 0.3174895,
+    "max_ms": 0.391057,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 34,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.4524852000000001,
+    "p95_ms": 0.7728302999999996,
+    "max_ms": 2.512687,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 34,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.34977922000000006,
+    "p95_ms": 0.45561959999999996,
+    "max_ms": 2.039572,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 34,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28008804000000004,
+    "p95_ms": 0.36420274999999996,
+    "max_ms": 0.462234,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 34,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.30232244,
+    "p95_ms": 0.5216591999999999,
+    "max_ms": 0.653162,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 34,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.28184015999999995,
+    "p95_ms": 0.38957259999999994,
+    "max_ms": 0.589356,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 34,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.26415878,
+    "p95_ms": 0.3876274499999999,
+    "max_ms": 0.470828,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 35,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.29850064000000004,
+    "p95_ms": 0.5078774499999995,
+    "max_ms": 0.666081,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 35,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.31489688,
+    "p95_ms": 0.4457214499999998,
+    "max_ms": 1.681747,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 35,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.29993964,
+    "p95_ms": 0.44813804999999995,
+    "max_ms": 0.609957,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 35,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28646672,
+    "p95_ms": 0.4186184,
+    "max_ms": 0.493062,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 35,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.26319976,
+    "p95_ms": 0.3370947999999999,
+    "max_ms": 0.480512,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 35,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.274445,
+    "p95_ms": 0.3789726,
+    "max_ms": 0.84468,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 35,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.29501282,
+    "p95_ms": 0.40235534999999994,
+    "max_ms": 0.694133,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 35,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.26279436,
+    "p95_ms": 0.34575325,
+    "max_ms": 0.430457,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 35,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.2946836,
+    "p95_ms": 0.37845855,
+    "max_ms": 1.295161,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 35,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.28907882,
+    "p95_ms": 0.41433064999999986,
+    "max_ms": 0.594123,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 35,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.3021149,
+    "p95_ms": 0.40403925,
+    "max_ms": 0.704599,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 35,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.31768260000000004,
+    "p95_ms": 0.4901660999999998,
+    "max_ms": 0.611519,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 35,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.38253399999999993,
+    "p95_ms": 0.39052555,
+    "max_ms": 4.919324,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 35,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.6177831799999999,
+    "p95_ms": 2.3517623,
+    "max_ms": 2.52119,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 36,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.29504294,
+    "p95_ms": 0.4571714499999999,
+    "max_ms": 0.639841,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 36,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.28516144,
+    "p95_ms": 0.40336569999999977,
+    "max_ms": 0.601864,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 36,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.29086192,
+    "p95_ms": 0.47904904999999987,
+    "max_ms": 0.63233,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 36,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.29695292,
+    "p95_ms": 0.40541714999999984,
+    "max_ms": 0.572961,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 36,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.34871894,
+    "p95_ms": 0.5369854999999999,
+    "max_ms": 2.01556,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 36,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.34923632000000004,
+    "p95_ms": 0.49077069999999995,
+    "max_ms": 2.067718,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 36,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.35015012,
+    "p95_ms": 0.38656655,
+    "max_ms": 0.390878,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 36,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.35256404,
+    "p95_ms": 0.39393055,
+    "max_ms": 0.43927,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 36,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.26267072,
+    "p95_ms": 0.29778784999999997,
+    "max_ms": 0.418349,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 36,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.24164690000000003,
+    "p95_ms": 0.27199429999999997,
+    "max_ms": 0.274122,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 36,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.24305876,
+    "p95_ms": 0.27542195,
+    "max_ms": 0.29947,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 36,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.26023754,
+    "p95_ms": 0.3120631,
+    "max_ms": 0.449085,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 36,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.25128028,
+    "p95_ms": 0.28550584999999995,
+    "max_ms": 0.384147,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 36,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.24406098,
+    "p95_ms": 0.276589,
+    "max_ms": 0.286561,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 37,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.3055454,
+    "p95_ms": 0.41767479999999996,
+    "max_ms": 0.575585,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 37,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.28449238,
+    "p95_ms": 0.37534679999999987,
+    "max_ms": 0.424819,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 37,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.26782312,
+    "p95_ms": 0.3300573,
+    "max_ms": 0.744939,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 37,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.26463948000000004,
+    "p95_ms": 0.33270675,
+    "max_ms": 0.436166,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 37,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.24845499999999998,
+    "p95_ms": 0.29872069999999984,
+    "max_ms": 0.380261,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 37,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.2560967800000001,
+    "p95_ms": 0.31015059999999994,
+    "max_ms": 0.370286,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 37,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.25026144,
+    "p95_ms": 0.3039438,
+    "max_ms": 0.33239,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 37,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.25583790000000006,
+    "p95_ms": 0.30196765,
+    "max_ms": 0.366771,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 37,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.26763822,
+    "p95_ms": 0.33888365,
+    "max_ms": 0.387803,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 37,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.26890551999999995,
+    "p95_ms": 0.35901924999999996,
+    "max_ms": 0.530147,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 37,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.25548256,
+    "p95_ms": 0.3145694499999999,
+    "max_ms": 0.435575,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 37,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.25722256,
+    "p95_ms": 0.3242403999999999,
+    "max_ms": 0.42583,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 37,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.24995056,
+    "p95_ms": 0.2817044,
+    "max_ms": 0.343286,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 37,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.2617106,
+    "p95_ms": 0.3394681999999999,
+    "max_ms": 0.490798,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 38,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.28371492,
+    "p95_ms": 0.39236634999999986,
+    "max_ms": 0.69305,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 38,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.26910996,
+    "p95_ms": 0.3160716,
+    "max_ms": 0.454552,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 38,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.2780259,
+    "p95_ms": 0.33746719999999997,
+    "max_ms": 0.53308,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 38,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.27622050000000004,
+    "p95_ms": 0.33869055,
+    "max_ms": 0.497186,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 38,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.25818902000000005,
+    "p95_ms": 0.32855379999999995,
+    "max_ms": 0.3467,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 38,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.32197762,
+    "p95_ms": 0.47441064999999993,
+    "max_ms": 0.550756,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 38,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.30640074,
+    "p95_ms": 0.4536617499999998,
+    "max_ms": 0.535203,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 38,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.36990540000000005,
+    "p95_ms": 0.5751810499999995,
+    "max_ms": 2.347287,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 38,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.34415694,
+    "p95_ms": 0.4709859499999998,
+    "max_ms": 1.67259,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 38,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.2961566,
+    "p95_ms": 0.40226209999999984,
+    "max_ms": 0.77319,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 38,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.30517594,
+    "p95_ms": 0.42383289999999996,
+    "max_ms": 0.522113,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 38,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.32184414000000006,
+    "p95_ms": 0.46845844999999997,
+    "max_ms": 0.637467,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 38,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.28466092000000004,
+    "p95_ms": 0.4173286,
+    "max_ms": 0.48639,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 38,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.33151742,
+    "p95_ms": 0.5177155,
+    "max_ms": 0.673541,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 39,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.32245928,
+    "p95_ms": 0.5548431499999998,
+    "max_ms": 0.614081,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 39,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.34235652,
+    "p95_ms": 0.4242022,
+    "max_ms": 2.521825,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 39,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.30684256,
+    "p95_ms": 0.47549234999999995,
+    "max_ms": 0.879089,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 39,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.27562158,
+    "p95_ms": 0.36963005,
+    "max_ms": 0.584347,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 39,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.30707284000000007,
+    "p95_ms": 0.47907249999999996,
+    "max_ms": 0.628593,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 39,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.28253726,
+    "p95_ms": 0.37933605000000004,
+    "max_ms": 0.440141,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 39,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.2943169,
+    "p95_ms": 0.42074775,
+    "max_ms": 0.628112,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 39,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.29416055999999996,
+    "p95_ms": 0.4539667999999999,
+    "max_ms": 0.537757,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 39,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.28964216,
+    "p95_ms": 0.36632869999999995,
+    "max_ms": 0.756215,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 39,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.27273862,
+    "p95_ms": 0.3846961999999999,
+    "max_ms": 0.453982,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 39,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.27588518000000006,
+    "p95_ms": 0.37883235,
+    "max_ms": 0.531147,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 39,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.30213187999999996,
+    "p95_ms": 0.45486869999999996,
+    "max_ms": 0.620511,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 39,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.29270897999999995,
+    "p95_ms": 0.3790060499999999,
+    "max_ms": 0.534252,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 39,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.27313729999999997,
+    "p95_ms": 0.39040074999999996,
+    "max_ms": 0.39976,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 40,
+    "method": "transport_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.3394787800000001,
+    "p95_ms": 0.5116321999999999,
+    "max_ms": 0.665499,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 40,
+    "method": "transport_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.28830574000000003,
+    "p95_ms": 0.36589399999999994,
+    "max_ms": 0.490165,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 40,
+    "method": "transport_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.33009831999999995,
+    "p95_ms": 0.46152944999999995,
+    "max_ms": 1.688965,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 40,
+    "method": "transport_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.3078253,
+    "p95_ms": 0.43321734999999995,
+    "max_ms": 0.605278,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 40,
+    "method": "transport_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.33829183999999995,
+    "p95_ms": 0.4323277499999999,
+    "max_ms": 1.986291,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 40,
+    "method": "transport_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.31894298,
+    "p95_ms": 0.4730798,
+    "max_ms": 0.743175,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 40,
+    "method": "transport_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.36683128000000004,
+    "p95_ms": 0.42377865,
+    "max_ms": 0.472769,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 40,
+    "method": "reselected_raw",
+    "sampled_updates": 50,
+    "mean_ms": 0.38839454,
+    "p95_ms": 0.42881115000000003,
+    "max_ms": 0.512354,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 40,
+    "method": "reselected_majority",
+    "sampled_updates": 50,
+    "mean_ms": 0.31846878,
+    "p95_ms": 0.46177615,
+    "max_ms": 0.616725,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 40,
+    "method": "reselected_symmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.31716326,
+    "p95_ms": 0.45834905,
+    "max_ms": 0.777997,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 40,
+    "method": "reselected_asymmetric",
+    "sampled_updates": 50,
+    "mean_ms": 0.32747824000000003,
+    "p95_ms": 0.5454514499999998,
+    "max_ms": 0.685679,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 40,
+    "method": "reselected_confidence_rejection",
+    "sampled_updates": 50,
+    "mean_ms": 0.29966546,
+    "p95_ms": 0.44315174999999984,
+    "max_ms": 0.490246,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 40,
+    "method": "reselected_DCIR",
+    "sampled_updates": 50,
+    "mean_ms": 0.34520542,
+    "p95_ms": 0.5779352999999999,
+    "max_ms": 1.235824,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 40,
+    "method": "reselected_MAV_onset_locking",
+    "sampled_updates": 50,
+    "mean_ms": 0.32079679999999994,
+    "p95_ms": 0.5071492999999999,
+    "max_ms": 0.532599,
+    "updates_over_25ms": 0
+  }
+]

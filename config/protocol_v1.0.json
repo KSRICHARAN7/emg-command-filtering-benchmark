@@ -1,0 +1,739 @@
+{
+  "protocol_id": "DB5-command-filtering-v1.0",
+  "status": "FROZEN_ANALYSIS_PLAN_NOT_PUBLICLY_PREREGISTERED",
+  "frozen_at_utc": "2026-10-15T16:30:42+00:00",
+  "freeze_stage": "before feature extraction, decoder training, controller tuning or final evaluation",
+  "seed": 20261015,
+  "question": "Can separately selected activation/release persistence reduce rest-command exposure under joint onset/offset requirements compared with symmetric persistence and established methods?",
+  "novel_algorithm_claim": false,
+  "dataset": "Ninapro DB5",
+  "canonical_exercise": "B",
+  "filename_exercise": "E2",
+  "mat_exercise_scalar": 1,
+  "class_labels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "sampling_rate_hz": 200,
+  "channels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "canonical_metadata_rules": "data/metadata_rules.json",
+  "source_inventory": "data/archive_inventory.json",
+  "development_subjects": [
+    1,
+    2
+  ],
+  "confirmatory_subjects": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "decoder_train_repetitions": [
+    1,
+    3,
+    4
+  ],
+  "development_selection_repetitions": [
+    2,
+    5,
+    6
+  ],
+  "confirmatory_evaluation_repetitions": [
+    2,
+    5
+  ],
+  "confirmatory_unused_repetitions": [
+    6
+  ],
+  "primary_annotation": "restimulus",
+  "repetition_annotation": "rerepetition active bouts only; explicit midpoint rest allocation",
+  "window_ms": 150,
+  "hop_ms": 25,
+  "features": [
+    "mean_absolute_value",
+    "root_mean_square",
+    "mean_waveform_length"
+  ],
+  "feature_order": "channel-major [MAV,RMS,meanWL] for each channel0\u201315",
+  "additional_filter": "none",
+  "normalizer": "StandardScaler fit on that participant training windows only; zero-variance scale1",
+  "decoder": {
+    "class": "LinearDiscriminantAnalysis",
+    "solver": "lsqr",
+    "shrinkage": "auto",
+    "priors": "uniform over18 classes"
+  },
+  "window_label": "last observed sample e-1",
+  "timestamp": "end-exclusive sample index e / fs; window x[e-L:e]",
+  "output_hold": "zero-order hold until next decision or block end; state0 until first output",
+  "window_end_grid": "global file indices divisible by hop_samples; only fully contained windows",
+  "rest_partition": "trial boundaries at floor((previous active end + next active start)/2), with half-open intervals; first starts0 and last endsN; merge touching cells only within same role",
+  "common_warmup_exclusion_ms": 250,
+  "eligibility": {
+    "active_duration_min_ms": 1000,
+    "pre_onset_rest_min_ms": 200,
+    "post_offset_rest_min_ms": 500,
+    "onset_not_before_scoring_start": true,
+    "require_full_post_offset_interval_in_same_continuous_block": true
+  },
+  "stable_duration_ms": 100,
+  "onset_budget_ms": 250,
+  "offset_budget_ms": 150,
+  "minimum_onset_success": 0.9,
+  "minimum_offset_compliance": 0.9,
+  "minimum_active_command_coverage": 0.8,
+  "active_coverage_interior_starts_ms_after_onset": 500,
+  "release_measurement": "offset-compliance denominator is all common annotation-eligible bouts; already-inactive cases flagged; actual release delay separately conditional on active pre-offset command",
+  "feasibility": "each development participant individually meets all three thresholds",
+  "objective": "minimum equal-participant mean rest nonzero-output fraction",
+  "tie_breaks": [
+    "mean false-activation event rate",
+    "mean capped stable-onset delay, unreached1000ms",
+    "lexicographic canonical parameter JSON"
+  ],
+  "infeasible_rule": "mark family infeasible; select separately labeled descriptive representative by minimum worst normalized constraint shortfall, then mean shortfall, then objective/ties; never call it budget-feasible",
+  "controller_grids": {
+    "raw": [
+      {}
+    ],
+    "majority": [
+      {
+        "n": 1
+      },
+      {
+        "n": 3
+      },
+      {
+        "n": 5
+      },
+      {
+        "n": 7
+      },
+      {
+        "n": 9
+      },
+      {
+        "n": 13
+      }
+    ],
+    "symmetric": [
+      {
+        "n": 1
+      },
+      {
+        "n": 2
+      },
+      {
+        "n": 3
+      },
+      {
+        "n": 5
+      },
+      {
+        "n": 7
+      },
+      {
+        "n": 9
+      }
+    ],
+    "asymmetric": [
+      {
+        "activation": 1,
+        "release": 1,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 1,
+        "release": 2,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 1,
+        "release": 3,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 1,
+        "release": 5,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 1,
+        "release": 7,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 1,
+        "release": 9,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 2,
+        "release": 1,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 2,
+        "release": 2,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 2,
+        "release": 3,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 2,
+        "release": 5,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 2,
+        "release": 7,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 2,
+        "release": 9,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 3,
+        "release": 1,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 3,
+        "release": 2,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 3,
+        "release": 3,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 3,
+        "release": 5,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 3,
+        "release": 7,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 3,
+        "release": 9,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 5,
+        "release": 1,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 5,
+        "release": 2,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 5,
+        "release": 3,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 5,
+        "release": 5,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 5,
+        "release": 7,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 5,
+        "release": 9,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 7,
+        "release": 1,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 7,
+        "release": 2,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 7,
+        "release": 3,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 7,
+        "release": 5,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 7,
+        "release": 7,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 7,
+        "release": 9,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 9,
+        "release": 1,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 9,
+        "release": 2,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 9,
+        "release": 3,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 9,
+        "release": 5,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 9,
+        "release": 7,
+        "switch_rule": "activation"
+      },
+      {
+        "activation": 9,
+        "release": 9,
+        "switch_rule": "activation"
+      }
+    ],
+    "confidence_rejection": [
+      {
+        "threshold": 0
+      },
+      {
+        "threshold": 0.4
+      },
+      {
+        "threshold": 0.5
+      },
+      {
+        "threshold": 0.6
+      },
+      {
+        "threshold": 0.7
+      },
+      {
+        "threshold": 0.8
+      },
+      {
+        "threshold": 0.9
+      },
+      {
+        "threshold": 0.95
+      },
+      {
+        "threshold": 0.97
+      },
+      {
+        "threshold": 0.99
+      }
+    ],
+    "DCIR": [
+      {
+        "minimum": 0.2,
+        "maximum": 0.8,
+        "tau_ms": 100
+      },
+      {
+        "minimum": 0.2,
+        "maximum": 0.8,
+        "tau_ms": 250
+      },
+      {
+        "minimum": 0.2,
+        "maximum": 0.8,
+        "tau_ms": 500
+      },
+      {
+        "minimum": 0.2,
+        "maximum": 0.95,
+        "tau_ms": 100
+      },
+      {
+        "minimum": 0.2,
+        "maximum": 0.95,
+        "tau_ms": 250
+      },
+      {
+        "minimum": 0.2,
+        "maximum": 0.95,
+        "tau_ms": 500
+      },
+      {
+        "minimum": 0.2,
+        "maximum": 0.989,
+        "tau_ms": 100
+      },
+      {
+        "minimum": 0.2,
+        "maximum": 0.989,
+        "tau_ms": 250
+      },
+      {
+        "minimum": 0.2,
+        "maximum": 0.989,
+        "tau_ms": 500
+      },
+      {
+        "minimum": 0.4,
+        "maximum": 0.8,
+        "tau_ms": 100
+      },
+      {
+        "minimum": 0.4,
+        "maximum": 0.8,
+        "tau_ms": 250
+      },
+      {
+        "minimum": 0.4,
+        "maximum": 0.8,
+        "tau_ms": 500
+      },
+      {
+        "minimum": 0.4,
+        "maximum": 0.95,
+        "tau_ms": 100
+      },
+      {
+        "minimum": 0.4,
+        "maximum": 0.95,
+        "tau_ms": 250
+      },
+      {
+        "minimum": 0.4,
+        "maximum": 0.95,
+        "tau_ms": 500
+      },
+      {
+        "minimum": 0.4,
+        "maximum": 0.989,
+        "tau_ms": 100
+      },
+      {
+        "minimum": 0.4,
+        "maximum": 0.989,
+        "tau_ms": 250
+      },
+      {
+        "minimum": 0.4,
+        "maximum": 0.989,
+        "tau_ms": 500
+      },
+      {
+        "minimum": 0.6,
+        "maximum": 0.8,
+        "tau_ms": 100
+      },
+      {
+        "minimum": 0.6,
+        "maximum": 0.8,
+        "tau_ms": 250
+      },
+      {
+        "minimum": 0.6,
+        "maximum": 0.8,
+        "tau_ms": 500
+      },
+      {
+        "minimum": 0.6,
+        "maximum": 0.95,
+        "tau_ms": 100
+      },
+      {
+        "minimum": 0.6,
+        "maximum": 0.95,
+        "tau_ms": 250
+      },
+      {
+        "minimum": 0.6,
+        "maximum": 0.95,
+        "tau_ms": 500
+      },
+      {
+        "minimum": 0.6,
+        "maximum": 0.989,
+        "tau_ms": 100
+      },
+      {
+        "minimum": 0.6,
+        "maximum": 0.989,
+        "tau_ms": 250
+      },
+      {
+        "minimum": 0.6,
+        "maximum": 0.989,
+        "tau_ms": 500
+      },
+      {
+        "minimum": 0.4,
+        "maximum": 0.989,
+        "tau_ms": 480
+      }
+    ],
+    "MAV_onset_locking": [
+      {
+        "rest_sd_multiplier": 1,
+        "initial_votes": 1
+      },
+      {
+        "rest_sd_multiplier": 1,
+        "initial_votes": 3
+      },
+      {
+        "rest_sd_multiplier": 1,
+        "initial_votes": 5
+      },
+      {
+        "rest_sd_multiplier": 1,
+        "initial_votes": 6
+      },
+      {
+        "rest_sd_multiplier": 1,
+        "initial_votes": 9
+      },
+      {
+        "rest_sd_multiplier": 2,
+        "initial_votes": 1
+      },
+      {
+        "rest_sd_multiplier": 2,
+        "initial_votes": 3
+      },
+      {
+        "rest_sd_multiplier": 2,
+        "initial_votes": 5
+      },
+      {
+        "rest_sd_multiplier": 2,
+        "initial_votes": 6
+      },
+      {
+        "rest_sd_multiplier": 2,
+        "initial_votes": 9
+      },
+      {
+        "rest_sd_multiplier": 3,
+        "initial_votes": 1
+      },
+      {
+        "rest_sd_multiplier": 3,
+        "initial_votes": 3
+      },
+      {
+        "rest_sd_multiplier": 3,
+        "initial_votes": 5
+      },
+      {
+        "rest_sd_multiplier": 3,
+        "initial_votes": 6
+      },
+      {
+        "rest_sd_multiplier": 3,
+        "initial_votes": 9
+      },
+      {
+        "rest_sd_multiplier": 4,
+        "initial_votes": 1
+      },
+      {
+        "rest_sd_multiplier": 4,
+        "initial_votes": 3
+      },
+      {
+        "rest_sd_multiplier": 4,
+        "initial_votes": 5
+      },
+      {
+        "rest_sd_multiplier": 4,
+        "initial_votes": 6
+      },
+      {
+        "rest_sd_multiplier": 4,
+        "initial_votes": 9
+      }
+    ]
+  },
+  "extended_OTVL": "fixed adaptation in protocol; exploratory only; not a reproduction of full published system",
+  "primary_contrast": "equal-participant mean of100*(asymmetric rest exposure minus symmetric rest exposure) over confirmatory subjects3\u201310",
+  "primary_interpretation_gate": "no feasible-constrained superiority claim if either primary family infeasible in development; always disclose attained test constraints",
+  "bootstrap": {
+    "draws": 10000,
+    "unit": "paired participant",
+    "statistic": "mean paired difference in percentage points",
+    "interval": "2.5 and97.5 percentile",
+    "seed": 20261015
+  },
+  "primary_test": {
+    "test": "two-sided exact sign-flip of participant mean differences",
+    "enumeration": "all2^8 signs; p=count(abs(permuted mean)>=abs(observed mean)-1e-12)/256",
+    "assumption": "sign exchangeability under null; not randomized clinical evidence",
+    "alpha": 0.05
+  },
+  "secondary_contrasts": [
+    "asymmetric vs raw",
+    "asymmetric vs majority",
+    "asymmetric vs confidence_rejection",
+    "asymmetric vs DCIR",
+    "asymmetric vs MAV_onset_locking"
+  ],
+  "secondary_p_adjustment": "Holm across five contrasts; descriptive if primary families infeasible",
+  "sensitivities": {
+    "windows_ms": [
+      100,
+      200,
+      250
+    ],
+    "onset_budgets_ms": [
+      150,
+      250,
+      350,
+      500
+    ],
+    "offset_budgets_ms": [
+      100,
+      150,
+      250
+    ],
+    "stable_duration_ms": [
+      50,
+      150
+    ],
+    "annotation_shift_ms": [
+      -100,
+      -50,
+      50,
+      100
+    ],
+    "alternative_reference": "stimulus evaluation only; retain primary raw partitions, decoder and locked policies",
+    "classifier": "StandardScaler + LogisticRegression(C=1,class_weight=balanced,solver=lbfgs,max_iter=2000); fixed LDA-selected controller parameters; no final-data tuning"
+  },
+  "replication_plan": {
+    "dataset": "Ninapro DB2",
+    "conditional_on_schema_verification": true,
+    "exercise": "canonical B; expect filename E1 and17 active labels; stop/amend if incompatible",
+    "sampling_rate_hz_expected": 2000,
+    "native_channels_expected": 12,
+    "development_subjects": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "confirmatory_subjects": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "train_repetitions": [
+      1,
+      3,
+      4
+    ],
+    "development_selection_repetitions": [
+      2,
+      5,
+      6
+    ],
+    "confirmatory_test_repetitions": [
+      2,
+      5
+    ],
+    "primary_replication": "transport DB5-selected temporal parameters; separately fit personalized DB2 decoders",
+    "secondary_replication": "reselect temporal parameters using DB2 subjects1\u20138 only; same grids/objective",
+    "claim": "cross-acquisition replication after personal calibration; not zero-shot decoder transfer; participant overlap across datasets not excluded"
+  },
+  "future_direct_switch_analysis": "outside protocol v1.0; requires suitable continuously recorded data and an amendment before its evaluation",
+  "change_policy": "never overwrite this version after freeze; append dated reason, exposure history and new version/hash before affected evaluation; no retrospectively preregistered claims"
+}

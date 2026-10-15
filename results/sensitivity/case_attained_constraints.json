@@ -1,0 +1,807 @@
+[
+  {
+    "case": "budget_on150_off100",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off100",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off100",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off100",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off100",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off100",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off100",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off250",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off250",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off250",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off250",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off250",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off250",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off250",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off150",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off150",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off150",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off150",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off150",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off150",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off150",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "classifier_logistic",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "classifier_logistic",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "classifier_logistic",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "classifier_logistic",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "classifier_logistic",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "classifier_logistic",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "classifier_logistic",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_250ms",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_250ms",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_250ms",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_250ms",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_250ms",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_250ms",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_250ms",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off100",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off100",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off100",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off100",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off100",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off100",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off100",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off100",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off100",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off100",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off100",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off100",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off100",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off100",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_200ms",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_200ms",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_200ms",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_200ms",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_200ms",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_200ms",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_200ms",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off150",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off150",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off150",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off150",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off150",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off150",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off150",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off250",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off250",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off250",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off250",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off250",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off250",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off250",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_-100ms",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_-100ms",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_-100ms",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_-100ms",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_-100ms",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_-100ms",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_-100ms",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_100ms",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_100ms",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_100ms",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_100ms",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_100ms",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_100ms",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "window_100ms",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_+100ms",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_+100ms",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_+100ms",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_+100ms",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_+100ms",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_+100ms",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_+100ms",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off150",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off150",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off150",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off150",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off150",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off150",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off150",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_+50ms",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_+50ms",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_+50ms",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_+50ms",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_+50ms",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_+50ms",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_+50ms",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_stimulus",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_stimulus",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_stimulus",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_stimulus",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_stimulus",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_stimulus",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_stimulus",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "stable_150ms",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "stable_150ms",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "stable_150ms",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "stable_150ms",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "stable_150ms",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "stable_150ms",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "stable_150ms",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off100",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off100",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off100",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off100",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off100",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off100",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on350_off100",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off250",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off250",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off250",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off250",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off250",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off250",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on500_off250",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off150",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off150",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off150",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off150",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off150",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off150",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on150_off150",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "stable_50ms",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "stable_50ms",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "stable_50ms",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "stable_50ms",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "stable_50ms",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "stable_50ms",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "stable_50ms",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_-50ms",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_-50ms",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_-50ms",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_-50ms",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_-50ms",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_-50ms",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "annotation_shift_-50ms",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off250",
+    "family": "raw",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off250",
+    "family": "majority",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off250",
+    "family": "symmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off250",
+    "family": "asymmetric",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off250",
+    "family": "confidence_rejection",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off250",
+    "family": "DCIR",
+    "people_meeting_joint_requirements": 0
+  },
+  {
+    "case": "budget_on250_off250",
+    "family": "MAV_onset_locking",
+    "people_meeting_joint_requirements": 0
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "protocol_id": "DB5-command-filtering-v1.0",
+  "sealed_at_utc": "2026-10-15T16:32:52+00:00",
+  "registration_status": "internal dated freeze; not a public preregistration",
+  "exposure_statement": "literature and structural source QC only; development annotation comparisons available; no feature matrix, decoder training, tuning or final outcome evaluation",
+  "frozen_file_sha256": {
+    "config/protocol_v1.0.json": "8008d50f18d732cdb9a352106e4e671debe185c2f0cdc563e30f52dbe188c0c3",
+    "docs/step4_protocol/Frozen_Protocol_v1.0.md": "d0fed06bf19bc2d78f53886945bee572bd52a2b5c19ac06f55a8b58405a69c10",
+    "docs/step4_protocol/Decisions_and_Change_Control.md": "ab71bf8f708fa90e4d73d84da59262b6f21f11d8e356c36e7455be986eb635b9",
+    "requirements_protocol_v1.0.txt": "2d950c2640428ea0b8ca89ef10fe2d1081137a49f1c66b60219953a1063421e2",
+    "data/archive_inventory.json": "8604895a9d024d3ac1346d0ce01227f71f0cf4b43cfac5090f8c2aff32db7d23",
+    "data/metadata_rules.json": "a05c944e05a1d5898bfc57e503b37cebd5798a1bf2c91929382e53acaa101187",
+    "data/class_map_db5_E2.csv": "eec97ea1f3bf25c4cd9e2103014f1725d77fd54a4d28609c4c141cb4ad9a22e6",
+    "docs/step4_protocol/Environment_at_Freeze.json": "78fb891143b41177ea3b8b24c435032bede37c53d7314942580f83736bfe782b",
+    "docs/step4_protocol/Literature_Refresh_2026-10-15.md": "cd235d441f12d20343c704a213cf1db88589d3f4baf4d4e954afba5daca00ed9"
+  },
+  "source_archive_sha256": {
+    "1": "dcfecd0f86d437ac53711b662332e90815dd7984881712cf9999d3633e4b62b3",
+    "2": "d92ec71116a132721282bf9aa3d7464e7cb9d1372fd3b010ff1a35f671b1ed36",
+    "3": "1ccb876cb57c44f5a21698f9b8b6ef6fb2323c18ef033914d43412899f21ea04",
+    "4": "21396a0265f8333082f3f2513f032776fbdd397bcc95c0330e97d04d2356ba19",
+    "5": "061291a93c993681070579f17a83065c6e94332c8299eac73ca208e89e1153b5",
+    "6": "a789960a52565929c785630c39c69447fb20667c7467a94156751fe0646eb9ca",
+    "7": "c93ae271f57e039259e2d73944c6dbe079aa2fb9ef90f2f174c57fe45ada3226",
+    "8": "274d0bff593a3fac74898b6a16de2fc5637a3c337d19c55e253360ea10fd7b9d",
+    "9": "a473278a33451ec97b4efef1b68b37e3856e2cf1e18dafe11c316856610832af",
+    "10": "28903042ae3d4ca1dccf9b9c64710eff27670d772ccc5e4bdf7704e1fd4b3a06"
+  },
+  "amendments": "prospective numbered versions with reason and exposure history; never overwrite this version"
+}

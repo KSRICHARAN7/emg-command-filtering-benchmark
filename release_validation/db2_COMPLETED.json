@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "dataset": "db2",
+  "participants": 32,
+  "person_methods": 608,
+  "summary_metric_values_matching_published": 114,
+  "prior_outcomes_exposed": true
+}

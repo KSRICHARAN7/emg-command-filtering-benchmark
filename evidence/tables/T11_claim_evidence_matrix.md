@@ -1,0 +1,10 @@
+| id | claim | status | evidence | boundary |
+| --- | --- | --- | --- | --- |
+| C01 | No tested development family achieved the frozen joint feasibility requirements. | SUPPORTED within tested pipeline/search | T02; Step7 and DB2 selection locks | Seven families and their finite grids; no assertion about every possible controller. |
+| C02 | Primary DB5 asymmetric fallback increased annotated-rest command exposure by 1.077 pp; stored 95% interval 0.764 to 1.397 pp. | DESCRIPTIVE; no constrained-superiority claim | T05/T06; F01; Step8 paired statistics | Eight final participants; equal-person mean; requirement feasibility failed. |
+| C03 | DB2 transported and reselected fallbacks increased exposure by 4.165 and 2.572 pp respectively. | DESCRIPTIVE replication | T04/T05/T06; F01/F06 | 32 final dataset IDs; same people in both contrasts; independent biological cohort not established. |
+| C04 | Active coverage can contain wrong active commands. | SUPPORTED metric decomposition | T03; F03; E02 | Coverage is nonzero held time; never label it accuracy or successful movement. |
+| C05 | Sensitivity effects depend on window/annotation/budget/decoder settings. | DESCRIPTIVE prespecified checks | T07; F04/F05; Step9 report | All 23 cases retained; no favorable case replaces primary; no multiplicity-adjusted new discovery claim. |
+| C06 | A novel controller or clinical benefit has been established. | NOT SUPPORTED | Frozen protocol and limitations | Contribution is reproducible replay and constraint-aware evaluation, not algorithm novelty or clinical validation. |
+| C07 | Host profiling establishes hard realtime embedded control. | NOT SUPPORTED | T09 | Finite measured host updates; no sensing/actuation, hardware-in-loop or worst-case proof. |
+| C08 | The proposed asymmetric method is better under all frozen constraints. | NOT SUPPORTED | T02/T03/T04; F02 | Development feasibility failed; do not use small descriptive p-values as proof of the constrained hypothesis. |

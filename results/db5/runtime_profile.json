@@ -1,0 +1,506 @@
+[
+  {
+    "subject": 3,
+    "method": "selected_raw",
+    "updates": 200,
+    "mean_ms": 0.19751137,
+    "p95_ms": 0.29803234999999995,
+    "max_ms": 0.586531,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 3,
+    "method": "selected_majority",
+    "updates": 200,
+    "mean_ms": 0.20553507000000004,
+    "p95_ms": 0.30991064999999995,
+    "max_ms": 0.437959,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 3,
+    "method": "selected_symmetric",
+    "updates": 200,
+    "mean_ms": 0.18249371,
+    "p95_ms": 0.25081709999999974,
+    "max_ms": 0.343586,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 3,
+    "method": "selected_asymmetric",
+    "updates": 200,
+    "mean_ms": 0.196454385,
+    "p95_ms": 0.31057609999999997,
+    "max_ms": 0.420372,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 3,
+    "method": "selected_confidence_rejection",
+    "updates": 200,
+    "mean_ms": 0.203206925,
+    "p95_ms": 0.34455914999999954,
+    "max_ms": 0.484068,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 3,
+    "method": "selected_DCIR",
+    "updates": 200,
+    "mean_ms": 0.227875065,
+    "p95_ms": 0.3613574999999999,
+    "max_ms": 1.422969,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 3,
+    "method": "selected_MAV_onset_locking",
+    "updates": 200,
+    "mean_ms": 0.20496327999999997,
+    "p95_ms": 0.3515628499999997,
+    "max_ms": 0.557678,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 4,
+    "method": "selected_raw",
+    "updates": 200,
+    "mean_ms": 0.224395065,
+    "p95_ms": 0.4352352499999999,
+    "max_ms": 0.996278,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 4,
+    "method": "selected_majority",
+    "updates": 200,
+    "mean_ms": 0.22854696,
+    "p95_ms": 0.40728769999999986,
+    "max_ms": 0.563727,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 4,
+    "method": "selected_symmetric",
+    "updates": 200,
+    "mean_ms": 0.218701075,
+    "p95_ms": 0.37633114999999995,
+    "max_ms": 0.533832,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 4,
+    "method": "selected_asymmetric",
+    "updates": 200,
+    "mean_ms": 0.23865955999999997,
+    "p95_ms": 0.4163205999999992,
+    "max_ms": 0.630808,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 4,
+    "method": "selected_confidence_rejection",
+    "updates": 200,
+    "mean_ms": 0.207798095,
+    "p95_ms": 0.3250369999999998,
+    "max_ms": 1.687536,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 4,
+    "method": "selected_DCIR",
+    "updates": 200,
+    "mean_ms": 0.21883007499999999,
+    "p95_ms": 0.3832993499999999,
+    "max_ms": 0.751058,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 4,
+    "method": "selected_MAV_onset_locking",
+    "updates": 200,
+    "mean_ms": 0.21164990500000003,
+    "p95_ms": 0.3501017999999998,
+    "max_ms": 0.91165,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 5,
+    "method": "selected_raw",
+    "updates": 200,
+    "mean_ms": 0.19285906,
+    "p95_ms": 0.30477864999999976,
+    "max_ms": 0.66556,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 5,
+    "method": "selected_majority",
+    "updates": 200,
+    "mean_ms": 0.207421775,
+    "p95_ms": 0.2773474999999998,
+    "max_ms": 3.397667,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 5,
+    "method": "selected_symmetric",
+    "updates": 200,
+    "mean_ms": 0.19023305000000001,
+    "p95_ms": 0.2768000999999996,
+    "max_ms": 0.766803,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 5,
+    "method": "selected_asymmetric",
+    "updates": 200,
+    "mean_ms": 0.184742175,
+    "p95_ms": 0.27033944999999987,
+    "max_ms": 0.499761,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 5,
+    "method": "selected_confidence_rejection",
+    "updates": 200,
+    "mean_ms": 0.18798251,
+    "p95_ms": 0.2772186,
+    "max_ms": 0.49246,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 5,
+    "method": "selected_DCIR",
+    "updates": 200,
+    "mean_ms": 0.18512196499999997,
+    "p95_ms": 0.28630419999999995,
+    "max_ms": 0.45864,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 5,
+    "method": "selected_MAV_onset_locking",
+    "updates": 200,
+    "mean_ms": 0.188272835,
+    "p95_ms": 0.28846859999999996,
+    "max_ms": 0.419661,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 6,
+    "method": "selected_raw",
+    "updates": 200,
+    "mean_ms": 0.23492326,
+    "p95_ms": 0.42319365,
+    "max_ms": 2.213927,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 6,
+    "method": "selected_majority",
+    "updates": 200,
+    "mean_ms": 0.213183045,
+    "p95_ms": 0.3586028499999999,
+    "max_ms": 0.696176,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 6,
+    "method": "selected_symmetric",
+    "updates": 200,
+    "mean_ms": 0.218566455,
+    "p95_ms": 0.39323869999999994,
+    "max_ms": 0.622937,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 6,
+    "method": "selected_asymmetric",
+    "updates": 200,
+    "mean_ms": 0.217339335,
+    "p95_ms": 0.3948562999999995,
+    "max_ms": 0.603747,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 6,
+    "method": "selected_confidence_rejection",
+    "updates": 200,
+    "mean_ms": 0.21152348499999998,
+    "p95_ms": 0.4353243499999999,
+    "max_ms": 0.780112,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 6,
+    "method": "selected_DCIR",
+    "updates": 200,
+    "mean_ms": 0.234981635,
+    "p95_ms": 0.41946529999999993,
+    "max_ms": 1.035777,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 6,
+    "method": "selected_MAV_onset_locking",
+    "updates": 200,
+    "mean_ms": 0.22237524999999997,
+    "p95_ms": 0.38330049999999977,
+    "max_ms": 0.779041,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 7,
+    "method": "selected_raw",
+    "updates": 200,
+    "mean_ms": 0.20192648,
+    "p95_ms": 0.2976564999999998,
+    "max_ms": 0.604318,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 7,
+    "method": "selected_majority",
+    "updates": 200,
+    "mean_ms": 0.18759889000000002,
+    "p95_ms": 0.24341609999999997,
+    "max_ms": 0.626772,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 7,
+    "method": "selected_symmetric",
+    "updates": 200,
+    "mean_ms": 0.18526953,
+    "p95_ms": 0.27308865,
+    "max_ms": 0.397387,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 7,
+    "method": "selected_asymmetric",
+    "updates": 200,
+    "mean_ms": 0.20703665000000002,
+    "p95_ms": 0.35275015,
+    "max_ms": 0.541254,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 7,
+    "method": "selected_confidence_rejection",
+    "updates": 200,
+    "mean_ms": 0.20976334000000002,
+    "p95_ms": 0.3487544499999999,
+    "max_ms": 0.952803,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 7,
+    "method": "selected_DCIR",
+    "updates": 200,
+    "mean_ms": 0.239388635,
+    "p95_ms": 0.5331359999999998,
+    "max_ms": 0.997168,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 7,
+    "method": "selected_MAV_onset_locking",
+    "updates": 200,
+    "mean_ms": 0.280168205,
+    "p95_ms": 0.48467114999999994,
+    "max_ms": 5.783974,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 8,
+    "method": "selected_raw",
+    "updates": 200,
+    "mean_ms": 0.23036533499999998,
+    "p95_ms": 0.4795867999999999,
+    "max_ms": 2.76074,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 8,
+    "method": "selected_majority",
+    "updates": 200,
+    "mean_ms": 0.2902956,
+    "p95_ms": 0.5913332499999999,
+    "max_ms": 2.132866,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 8,
+    "method": "selected_symmetric",
+    "updates": 200,
+    "mean_ms": 0.25471029,
+    "p95_ms": 0.4894883999999999,
+    "max_ms": 1.866045,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 8,
+    "method": "selected_asymmetric",
+    "updates": 200,
+    "mean_ms": 0.21052395999999998,
+    "p95_ms": 0.3316501,
+    "max_ms": 1.53046,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 8,
+    "method": "selected_confidence_rejection",
+    "updates": 200,
+    "mean_ms": 0.21164547499999997,
+    "p95_ms": 0.4001138999999999,
+    "max_ms": 0.715736,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 8,
+    "method": "selected_DCIR",
+    "updates": 200,
+    "mean_ms": 0.23952162000000002,
+    "p95_ms": 0.37533814999999976,
+    "max_ms": 3.57266,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 8,
+    "method": "selected_MAV_onset_locking",
+    "updates": 200,
+    "mean_ms": 0.43222672500000003,
+    "p95_ms": 0.5803250999999999,
+    "max_ms": 20.31178,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "selected_raw",
+    "updates": 200,
+    "mean_ms": 0.21046000499999998,
+    "p95_ms": 0.3776076999999999,
+    "max_ms": 0.603877,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "selected_majority",
+    "updates": 200,
+    "mean_ms": 0.20562579,
+    "p95_ms": 0.31626804999999997,
+    "max_ms": 0.515835,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "selected_symmetric",
+    "updates": 200,
+    "mean_ms": 0.25168315,
+    "p95_ms": 0.44192139999999946,
+    "max_ms": 2.464815,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "selected_asymmetric",
+    "updates": 200,
+    "mean_ms": 0.22162195,
+    "p95_ms": 0.3619693499999999,
+    "max_ms": 1.559084,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "selected_confidence_rejection",
+    "updates": 200,
+    "mean_ms": 0.19049553,
+    "p95_ms": 0.29131579999999996,
+    "max_ms": 0.413262,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "selected_DCIR",
+    "updates": 200,
+    "mean_ms": 0.1967672,
+    "p95_ms": 0.30383149999999964,
+    "max_ms": 0.537377,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 9,
+    "method": "selected_MAV_onset_locking",
+    "updates": 200,
+    "mean_ms": 0.18950188499999998,
+    "p95_ms": 0.31093419999999994,
+    "max_ms": 0.475855,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "selected_raw",
+    "updates": 200,
+    "mean_ms": 0.20616963499999996,
+    "p95_ms": 0.31203469999999994,
+    "max_ms": 0.673953,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "selected_majority",
+    "updates": 200,
+    "mean_ms": 0.21586672500000004,
+    "p95_ms": 0.33083874999999996,
+    "max_ms": 0.534113,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "selected_symmetric",
+    "updates": 200,
+    "mean_ms": 0.198972945,
+    "p95_ms": 0.29776384999999994,
+    "max_ms": 0.531188,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "selected_asymmetric",
+    "updates": 200,
+    "mean_ms": 0.20284371,
+    "p95_ms": 0.31266284999999994,
+    "max_ms": 0.488213,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "selected_confidence_rejection",
+    "updates": 200,
+    "mean_ms": 0.19178931,
+    "p95_ms": 0.29505824999999997,
+    "max_ms": 0.651579,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "selected_DCIR",
+    "updates": 200,
+    "mean_ms": 0.1844957,
+    "p95_ms": 0.2500406,
+    "max_ms": 0.486211,
+    "updates_over_25ms": 0
+  },
+  {
+    "subject": 10,
+    "method": "selected_MAV_onset_locking",
+    "updates": 200,
+    "mean_ms": 0.17637255999999998,
+    "p95_ms": 0.22986274999999992,
+    "max_ms": 0.290387,
+    "updates_over_25ms": 0
+  }
+]

@@ -1,0 +1,618 @@
+{
+  "exposure": "All original outcomes known. These are historical locked settings, not a new untouched evaluation.",
+  "db5": {
+    "raw": {
+      "params": {},
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 1,
+      "worst_normalized_shortfall": 0.9564270152505447,
+      "mean_normalized_shortfall": 0.45606390704429917,
+      "mean_rest_exposure": 0.019545948631499527,
+      "mean_episodes_per_rest_minute": 12.197885548403168,
+      "mean_capped_onset_delay_ms": 736.2254901960785
+    },
+    "majority": {
+      "params": {
+        "n": 1
+      },
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 6,
+      "worst_normalized_shortfall": 0.9564270152505447,
+      "mean_normalized_shortfall": 0.45606390704429917,
+      "mean_rest_exposure": 0.019545948631499527,
+      "mean_episodes_per_rest_minute": 12.197885548403168,
+      "mean_capped_onset_delay_ms": 736.2254901960785
+    },
+    "symmetric": {
+      "params": {
+        "n": 1
+      },
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 6,
+      "worst_normalized_shortfall": 0.9564270152505447,
+      "mean_normalized_shortfall": 0.45606390704429917,
+      "mean_rest_exposure": 0.019545948631499527,
+      "mean_episodes_per_rest_minute": 12.197885548403168,
+      "mean_capped_onset_delay_ms": 736.2254901960785
+    },
+    "asymmetric": {
+      "params": {
+        "activation": 1,
+        "release": 2,
+        "switch_rule": "activation"
+      },
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 36,
+      "worst_normalized_shortfall": 0.934640522875817,
+      "mean_normalized_shortfall": 0.4778503994190269,
+      "mean_rest_exposure": 0.024746099826113095,
+      "mean_episodes_per_rest_minute": 11.385275846851123,
+      "mean_capped_onset_delay_ms": 734.7549019607843
+    },
+    "confidence_rejection": {
+      "params": {
+        "threshold": 0
+      },
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 10,
+      "worst_normalized_shortfall": 0.9564270152505447,
+      "mean_normalized_shortfall": 0.45606390704429917,
+      "mean_rest_exposure": 0.019545948631499527,
+      "mean_episodes_per_rest_minute": 12.197885548403168,
+      "mean_capped_onset_delay_ms": 736.2254901960785
+    },
+    "DCIR": {
+      "params": {
+        "minimum": 0.2,
+        "maximum": 0.8,
+        "tau_ms": 100
+      },
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 28,
+      "worst_normalized_shortfall": 1.0,
+      "mean_normalized_shortfall": 0.4090685264682843,
+      "mean_rest_exposure": 0.008515160724735984,
+      "mean_episodes_per_rest_minute": 5.321076872182182,
+      "mean_capped_onset_delay_ms": 791.8627450980392
+    },
+    "MAV_onset_locking": {
+      "params": {
+        "rest_sd_multiplier": 3,
+        "initial_votes": 1
+      },
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 20,
+      "worst_normalized_shortfall": 0.9564270152505447,
+      "mean_normalized_shortfall": 0.4635106193156089,
+      "mean_rest_exposure": 0.014899956212376372,
+      "mean_episodes_per_rest_minute": 5.566948736638901,
+      "mean_capped_onset_delay_ms": 898.8235294117646
+    }
+  },
+  "db5_subfamilies": {
+    "activation_only": {
+      "params": {
+        "activation": 1,
+        "release": 1,
+        "switch_rule": "activation"
+      },
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 6,
+      "worst_normalized_shortfall": 0.9564270152505447,
+      "mean_normalized_shortfall": 0.45606390704429917,
+      "mean_rest_exposure": 0.019545948631499527,
+      "mean_episodes_per_rest_minute": 12.197885548403168,
+      "mean_capped_onset_delay_ms": 736.2254901960785
+    },
+    "release_only": {
+      "params": {
+        "activation": 1,
+        "release": 2,
+        "switch_rule": "activation"
+      },
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 6,
+      "worst_normalized_shortfall": 0.934640522875817,
+      "mean_normalized_shortfall": 0.4778503994190269,
+      "mean_rest_exposure": 0.024746099826113095,
+      "mean_episodes_per_rest_minute": 11.385275846851123,
+      "mean_capped_onset_delay_ms": 734.7549019607843
+    }
+  },
+  "db5_windows": {
+    "150": {
+      "raw": {
+        "params": {},
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 1,
+        "worst_normalized_shortfall": 0.9564270152505447,
+        "mean_normalized_shortfall": 0.45606390704429917,
+        "mean_rest_exposure": 0.019545948631499527,
+        "mean_episodes_per_rest_minute": 12.197885548403168,
+        "mean_capped_onset_delay_ms": 736.2254901960785
+      },
+      "majority": {
+        "params": {
+          "n": 1
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 6,
+        "worst_normalized_shortfall": 0.9564270152505447,
+        "mean_normalized_shortfall": 0.45606390704429917,
+        "mean_rest_exposure": 0.019545948631499527,
+        "mean_episodes_per_rest_minute": 12.197885548403168,
+        "mean_capped_onset_delay_ms": 736.2254901960785
+      },
+      "symmetric": {
+        "params": {
+          "n": 1
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 6,
+        "worst_normalized_shortfall": 0.9564270152505447,
+        "mean_normalized_shortfall": 0.45606390704429917,
+        "mean_rest_exposure": 0.019545948631499527,
+        "mean_episodes_per_rest_minute": 12.197885548403168,
+        "mean_capped_onset_delay_ms": 736.2254901960785
+      },
+      "asymmetric": {
+        "params": {
+          "activation": 1,
+          "release": 2,
+          "switch_rule": "activation"
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 36,
+        "worst_normalized_shortfall": 0.934640522875817,
+        "mean_normalized_shortfall": 0.4778503994190269,
+        "mean_rest_exposure": 0.024746099826113095,
+        "mean_episodes_per_rest_minute": 11.385275846851123,
+        "mean_capped_onset_delay_ms": 734.7549019607843
+      },
+      "confidence_rejection": {
+        "params": {
+          "threshold": 0
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 10,
+        "worst_normalized_shortfall": 0.9564270152505447,
+        "mean_normalized_shortfall": 0.45606390704429917,
+        "mean_rest_exposure": 0.019545948631499527,
+        "mean_episodes_per_rest_minute": 12.197885548403168,
+        "mean_capped_onset_delay_ms": 736.2254901960785
+      },
+      "DCIR": {
+        "params": {
+          "minimum": 0.2,
+          "maximum": 0.8,
+          "tau_ms": 100
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 28,
+        "worst_normalized_shortfall": 1.0,
+        "mean_normalized_shortfall": 0.4090685264682843,
+        "mean_rest_exposure": 0.008515160724735984,
+        "mean_episodes_per_rest_minute": 5.321076872182182,
+        "mean_capped_onset_delay_ms": 791.8627450980392
+      },
+      "MAV_onset_locking": {
+        "params": {
+          "rest_sd_multiplier": 3,
+          "initial_votes": 1
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 20,
+        "worst_normalized_shortfall": 0.9564270152505447,
+        "mean_normalized_shortfall": 0.4635106193156089,
+        "mean_rest_exposure": 0.014899956212376372,
+        "mean_episodes_per_rest_minute": 5.566948736638901,
+        "mean_capped_onset_delay_ms": 898.8235294117646
+      }
+    },
+    "100": {
+      "raw": {
+        "params": {},
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 1,
+        "worst_normalized_shortfall": 1.0,
+        "mean_normalized_shortfall": 0.4705882352941176,
+        "mean_rest_exposure": 0.018023554670770853,
+        "mean_episodes_per_rest_minute": 13.44490089459192,
+        "mean_capped_onset_delay_ms": 760.3431372549019
+      },
+      "majority": {
+        "params": {
+          "n": 5
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 6,
+        "worst_normalized_shortfall": 0.9782135076252723,
+        "mean_normalized_shortfall": 0.47421931735657225,
+        "mean_rest_exposure": 0.019720067847035734,
+        "mean_episodes_per_rest_minute": 9.325650799110322,
+        "mean_capped_onset_delay_ms": 757.0588235294117
+      },
+      "symmetric": {
+        "params": {
+          "n": 3
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 6,
+        "worst_normalized_shortfall": 0.9782135076252723,
+        "mean_normalized_shortfall": 0.4633260711692084,
+        "mean_rest_exposure": 0.019387271104644492,
+        "mean_episodes_per_rest_minute": 8.358682868633252,
+        "mean_capped_onset_delay_ms": 757.7941176470588
+      },
+      "asymmetric": {
+        "params": {
+          "activation": 1,
+          "release": 5,
+          "switch_rule": "activation"
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 36,
+        "worst_normalized_shortfall": 0.934640522875817,
+        "mean_normalized_shortfall": 0.5323166303558461,
+        "mean_rest_exposure": 0.03931609259423112,
+        "mean_episodes_per_rest_minute": 13.021508268188414,
+        "mean_capped_onset_delay_ms": 741.9117647058823
+      },
+      "confidence_rejection": {
+        "params": {
+          "threshold": 0.5
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 10,
+        "worst_normalized_shortfall": 1.0,
+        "mean_normalized_shortfall": 0.40232688040270553,
+        "mean_rest_exposure": 0.00582136448890936,
+        "mean_episodes_per_rest_minute": 5.42360352594708,
+        "mean_capped_onset_delay_ms": 835.0980392156862
+      },
+      "DCIR": {
+        "params": {
+          "minimum": 0.2,
+          "maximum": 0.8,
+          "tau_ms": 100
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 28,
+        "worst_normalized_shortfall": 1.0,
+        "mean_normalized_shortfall": 0.42090528471135125,
+        "mean_rest_exposure": 0.005146862948599692,
+        "mean_episodes_per_rest_minute": 3.5988373244297964,
+        "mean_capped_onset_delay_ms": 831.9607843137255
+      },
+      "MAV_onset_locking": {
+        "params": {
+          "rest_sd_multiplier": 1,
+          "initial_votes": 3
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 20,
+        "worst_normalized_shortfall": 0.934640522875817,
+        "mean_normalized_shortfall": 0.5508874602670459,
+        "mean_rest_exposure": 0.020016438652788477,
+        "mean_episodes_per_rest_minute": 4.955022330055406,
+        "mean_capped_onset_delay_ms": 926.9607843137255
+      }
+    },
+    "200": {
+      "raw": {
+        "params": {},
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 1,
+        "worst_normalized_shortfall": 0.9782135076252723,
+        "mean_normalized_shortfall": 0.466957153231663,
+        "mean_rest_exposure": 0.020118382393804014,
+        "mean_episodes_per_rest_minute": 10.115097967640605,
+        "mean_capped_onset_delay_ms": 744.7549019607843
+      },
+      "majority": {
+        "params": {
+          "n": 1
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 6,
+        "worst_normalized_shortfall": 0.9782135076252723,
+        "mean_normalized_shortfall": 0.466957153231663,
+        "mean_rest_exposure": 0.020118382393804014,
+        "mean_episodes_per_rest_minute": 10.115097967640605,
+        "mean_capped_onset_delay_ms": 744.7549019607843
+      },
+      "symmetric": {
+        "params": {
+          "n": 1
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 6,
+        "worst_normalized_shortfall": 0.9782135076252723,
+        "mean_normalized_shortfall": 0.466957153231663,
+        "mean_rest_exposure": 0.020118382393804014,
+        "mean_episodes_per_rest_minute": 10.115097967640605,
+        "mean_capped_onset_delay_ms": 744.7549019607843
+      },
+      "asymmetric": {
+        "params": {
+          "activation": 1,
+          "release": 1,
+          "switch_rule": "activation"
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 36,
+        "worst_normalized_shortfall": 0.9782135076252723,
+        "mean_normalized_shortfall": 0.466957153231663,
+        "mean_rest_exposure": 0.020118382393804014,
+        "mean_episodes_per_rest_minute": 10.115097967640605,
+        "mean_capped_onset_delay_ms": 744.7549019607843
+      },
+      "confidence_rejection": {
+        "params": {
+          "threshold": 0.5
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 10,
+        "worst_normalized_shortfall": 0.9782135076252723,
+        "mean_normalized_shortfall": 0.39128539926494765,
+        "mean_rest_exposure": 0.008941226562123192,
+        "mean_episodes_per_rest_minute": 5.138049601118794,
+        "mean_capped_onset_delay_ms": 799.0686274509803
+      },
+      "DCIR": {
+        "params": {
+          "minimum": 0.2,
+          "maximum": 0.95,
+          "tau_ms": 100
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 28,
+        "worst_normalized_shortfall": 1.0,
+        "mean_normalized_shortfall": 0.4078496752133849,
+        "mean_rest_exposure": 0.00953623994470008,
+        "mean_episodes_per_rest_minute": 5.080711516842065,
+        "mean_capped_onset_delay_ms": 808.0882352941176
+      },
+      "MAV_onset_locking": {
+        "params": {
+          "rest_sd_multiplier": 3,
+          "initial_votes": 1
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 20,
+        "worst_normalized_shortfall": 0.9782135076252723,
+        "mean_normalized_shortfall": 0.4633260711692084,
+        "mean_rest_exposure": 0.016992394848564667,
+        "mean_episodes_per_rest_minute": 5.990341363042406,
+        "mean_capped_onset_delay_ms": 898.578431372549
+      }
+    },
+    "250": {
+      "raw": {
+        "params": {},
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 1,
+        "worst_normalized_shortfall": 0.9782135076252723,
+        "mean_normalized_shortfall": 0.4814814814814814,
+        "mean_rest_exposure": 0.022300120330300016,
+        "mean_episodes_per_rest_minute": 9.234137163578628,
+        "mean_capped_onset_delay_ms": 747.7450980392157
+      },
+      "majority": {
+        "params": {
+          "n": 1
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 6,
+        "worst_normalized_shortfall": 0.9782135076252723,
+        "mean_normalized_shortfall": 0.4814814814814814,
+        "mean_rest_exposure": 0.022300120330300016,
+        "mean_episodes_per_rest_minute": 9.234137163578628,
+        "mean_capped_onset_delay_ms": 747.7450980392157
+      },
+      "symmetric": {
+        "params": {
+          "n": 1
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 6,
+        "worst_normalized_shortfall": 0.9782135076252723,
+        "mean_normalized_shortfall": 0.4814814814814814,
+        "mean_rest_exposure": 0.022300120330300016,
+        "mean_episodes_per_rest_minute": 9.234137163578628,
+        "mean_capped_onset_delay_ms": 747.7450980392157
+      },
+      "asymmetric": {
+        "params": {
+          "activation": 1,
+          "release": 1,
+          "switch_rule": "activation"
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 36,
+        "worst_normalized_shortfall": 0.9782135076252723,
+        "mean_normalized_shortfall": 0.4814814814814814,
+        "mean_rest_exposure": 0.022300120330300016,
+        "mean_episodes_per_rest_minute": 9.234137163578628,
+        "mean_capped_onset_delay_ms": 747.7450980392157
+      },
+      "confidence_rejection": {
+        "params": {
+          "threshold": 0.4
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 10,
+        "worst_normalized_shortfall": 0.9782135076252723,
+        "mean_normalized_shortfall": 0.43427741466957154,
+        "mean_rest_exposure": 0.015444798771211125,
+        "mean_episodes_per_rest_minute": 8.839413579313486,
+        "mean_capped_onset_delay_ms": 772.2549019607843
+      },
+      "DCIR": {
+        "params": {
+          "minimum": 0.4,
+          "maximum": 0.8,
+          "tau_ms": 100
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 28,
+        "worst_normalized_shortfall": 1.0,
+        "mean_normalized_shortfall": 0.4020548947791746,
+        "mean_rest_exposure": 0.009426167198215474,
+        "mean_episodes_per_rest_minute": 5.23506974576709,
+        "mean_capped_onset_delay_ms": 813.4803921568628
+      },
+      "MAV_onset_locking": {
+        "params": {
+          "rest_sd_multiplier": 3,
+          "initial_votes": 1
+        },
+        "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+        "feasible_candidates": 0,
+        "candidate_count": 20,
+        "worst_normalized_shortfall": 0.9782135076252723,
+        "mean_normalized_shortfall": 0.47421931735657225,
+        "mean_rest_exposure": 0.01833258458170311,
+        "mean_episodes_per_rest_minute": 6.385064947307547,
+        "mean_capped_onset_delay_ms": 872.4509803921569
+      }
+    }
+  },
+  "db5_budgets": {},
+  "db2": {
+    "raw": {
+      "params": {},
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 1,
+      "worst_normalized_shortfall": 0.9782135076252723,
+      "mean_normalized_shortfall": 0.5292302106027597,
+      "mean_rest_exposure": 0.34065018491715926,
+      "mean_episodes_per_rest_minute": 126.95261626157584,
+      "mean_capped_onset_delay_ms": 637.6464705882353
+    },
+    "majority": {
+      "params": {
+        "n": 13
+      },
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 6,
+      "worst_normalized_shortfall": 0.9128540305010893,
+      "mean_normalized_shortfall": 0.5419208424110386,
+      "mean_rest_exposure": 0.31792054669855074,
+      "mean_episodes_per_rest_minute": 36.39864546275142,
+      "mean_capped_onset_delay_ms": 684.4847549019607
+    },
+    "symmetric": {
+      "params": {
+        "n": 3
+      },
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 6,
+      "worst_normalized_shortfall": 0.9333333333333333,
+      "mean_normalized_shortfall": 0.5301561365286855,
+      "mean_rest_exposure": 0.3296567210785208,
+      "mean_episodes_per_rest_minute": 52.31327254681406,
+      "mean_capped_onset_delay_ms": 635.8198774509804
+    },
+    "asymmetric": {
+      "params": {
+        "activation": 5,
+        "release": 7,
+        "switch_rule": "activation"
+      },
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 36,
+      "worst_normalized_shortfall": 0.9128540305010893,
+      "mean_normalized_shortfall": 0.55199709513435,
+      "mean_rest_exposure": 0.3654465934414725,
+      "mean_episodes_per_rest_minute": 31.746055850479944,
+      "mean_capped_onset_delay_ms": 671.4856372549019
+    },
+    "confidence_rejection": {
+      "params": {
+        "threshold": 0.5
+      },
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 10,
+      "worst_normalized_shortfall": 0.9777777777777777,
+      "mean_normalized_shortfall": 0.488021910755785,
+      "mean_rest_exposure": 0.10341709719505854,
+      "mean_episodes_per_rest_minute": 58.82787246116625,
+      "mean_capped_onset_delay_ms": 753.7112254901961
+    },
+    "DCIR": {
+      "params": {
+        "minimum": 0.2,
+        "maximum": 0.8,
+        "tau_ms": 250
+      },
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 28,
+      "worst_normalized_shortfall": 0.9777777777777777,
+      "mean_normalized_shortfall": 0.47363843896886415,
+      "mean_rest_exposure": 0.09328582608639835,
+      "mean_episodes_per_rest_minute": 34.21034935388904,
+      "mean_capped_onset_delay_ms": 759.6273529411765
+    },
+    "MAV_onset_locking": {
+      "params": {
+        "rest_sd_multiplier": 1,
+        "initial_votes": 3
+      },
+      "status": "INFEASIBLE_DESCRIPTIVE_ONLY",
+      "feasible_candidates": 0,
+      "candidate_count": 20,
+      "worst_normalized_shortfall": 0.9777777777777777,
+      "mean_normalized_shortfall": 0.5034700096141317,
+      "mean_rest_exposure": 0.08477717775321798,
+      "mean_episodes_per_rest_minute": 19.73838316134215,
+      "mean_capped_onset_delay_ms": 877.7146078431373
+    }
+  },
+  "original_lock_sha256": {
+    "DB5": "c3b856a39f20b42437917bc3c5e32dbd12dc32d8f0a248332883e9bf51137c83",
+    "DB2": "e75f9f043703f2cf0ad824297ff71ac7c8badf64f23e5d3faf96ae22d41bf26d"
+  }
+}

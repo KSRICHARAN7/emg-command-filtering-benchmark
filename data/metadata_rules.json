@@ -1,0 +1,29 @@
+{
+  "status": "verified source exceptions; preserve raw archives",
+  "canonical_subject_key": "DB5 archive number and member filename, not MAT subject scalar",
+  "subject_scalar_exceptions": {
+    "2": {
+      "observed_mat_subject": 11,
+      "source_archive": "s2.zip",
+      "policy": "retain canonical key DB5_s02; record alias; do not claim internal value11 is another participant"
+    }
+  },
+  "canonical_exercise_map": {
+    "E1": {
+      "canonical_letter": "A",
+      "active_classes": 12,
+      "observed_mat_exercise_scalar": 3
+    },
+    "E2": {
+      "canonical_letter": "B",
+      "active_classes": 17,
+      "observed_mat_exercise_scalar": 1
+    },
+    "E3": {
+      "canonical_letter": "C",
+      "active_classes": 23,
+      "observed_mat_exercise_scalar": 2
+    }
+  },
+  "rest_repetition_policy": "Never assign rest partitions directly from rerepetition; derive rest ownership from explicit bout boundaries during Step5. Rest rerepetition contains values0\u20136."
+}
