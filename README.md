@@ -16,6 +16,12 @@ Positive values mean more nonzero-command time during annotated rest. These are 
 
 ![Paired exposure contrasts](evidence/figures/F01_main_contrasts.svg)
 
+## Manuscript draft
+
+[Read the manuscript draft (PDF)](manuscript/EMG_Manuscript_Draft.pdf) · [Project in the portfolio](https://ksricharan7.github.io/portfolio/#emg)
+
+Author-shared draft, October 15, 2026. Not peer reviewed or journal published. The draft does not change the frozen benchmark or released results.
+
 ## What was built
 
 - Causal trailing-window EMG features and training-only standardization.
@@ -60,6 +66,6 @@ The six public figures and aggregate tables are a selected release from the priv
 
 This is offline intact-limb replay, not a clinical or closed-loop prosthetic trial. Some training repetitions occur later in recording time than evaluation repetitions; retrospective labels are not measured intention. Dataset IDs do not establish independent biological cohorts. The dated freeze is internal, not public preregistration. All outcomes are already exposed.
 
-**No manuscript or peer-reviewed publication is available yet.** The researcher will write the manuscript separately. Cite this repository as software using CITATION.cff; no paper DOI is claimed.
+**An author-shared manuscript draft is available above; it is not peer reviewed or journal published.** Cite the benchmark as software using CITATION.cff; no paper DOI is claimed.
 
 [Dataset access and attribution](DATA_ACCESS.md) · [Release scope](RELEASE_SCOPE.md) · [MIT license for original code/documentation](LICENSE)

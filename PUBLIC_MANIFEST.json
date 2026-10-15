@@ -7,7 +7,7 @@
     "CITATION.cff": "9909437b15e8d307c504897c5e4a30ce58703a18a9fb54500a7d1348da45a8ea",
     "DATA_ACCESS.md": "ac6e8a261bd99094f811b1d90474af3a95318e7b8eb0b82daca4f76ad4b979c9",
     "LICENSE": "87cf6eb7c3d58e8aa3f324250884a0f99a09533b7d4a29fbaa63bb955681f067",
-    "README.md": "4e2fa1ae7dcfe02f53471dee04ca0698f2ba37b764edeadbac9f8c7229612615",
+    "README.md": "bcf2e38be259800dcbf6abb81f81e7b0dd51c2ade0b94c527cf128578f301ee8",
     "RELEASE_SCOPE.md": "cda01493f68d97ee9d64c8f92e5adbd8a888c917933b7e2585c2c77bfc677306",
     "REPRODUCING.md": "4c4e4de9530ffba02064251c63649b5335208a2ed726ed12fd76e7b22c5250a0",
     "config/DB2_replication_v1.0.json": "8f8baeec21aa06e6dc9eecd8ef5f8b76403d59e1c15db90f02282fbd6accbdda",
@@ -137,6 +137,9 @@
     "tests/test_pipeline.py": "6606b200cffb559225a9fe9fc973cba073282c2e76efb026e35a29de616c43d9",
     "tests/test_policies_evaluation.py": "e1aecd64b9fa6acedf2bc7a393ba44657f284a9ae49b079aaa8cbd2831d39b2e",
     "tests/test_replication.py": "43bebd2b9c8bc6d1d291c7a6ec336cd9119cc7575b291af1dec0bf42efd9dd58",
-    "tests/test_robustness.py": "2626efc8bc3bd011814ae3768843bc24dd8391db95cf10ce3e6d906a21332e4a"
-  }
+    "tests/test_robustness.py": "2626efc8bc3bd011814ae3768843bc24dd8391db95cf10ce3e6d906a21332e4a",
+    "manuscript/README.md": "6fd6a26e2fd46306b03ccf2b7c00b80909ff7f2e0f489872b01a1f2b6c735aa9",
+    "manuscript/EMG_Manuscript_Draft.pdf": "0f5ecbcb84d167920da46c634e768507aaf92c489164183b6ee918ea7557d550"
+  },
+  "documentation_update": "2026-10-15: manuscript draft added; benchmark remains v0.11.0"
 }
