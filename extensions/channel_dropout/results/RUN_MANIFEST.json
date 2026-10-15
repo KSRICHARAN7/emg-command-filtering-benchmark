@@ -1,0 +1,98 @@
+{
+  "started_utc": "2026-10-15T22:31:46.611336+00:00",
+  "plan_freeze_sha256": "946093a8f2196f789985d14ab9b195a4570e88b2e2f2da3d8cf3a174d40c3f43",
+  "plan_git_commit": "2d08211d65c72dc4c98859004ae71197f66d17d7",
+  "original_outcomes_exposed": true,
+  "extension_analysis_previously_run": false,
+  "dataset": "DB5",
+  "participants": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "condition_count": 20,
+  "controller_count": 2,
+  "versions": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "scikit-learn": "1.8.0",
+    "threadpoolctl": "3.6.0"
+  },
+  "core_sha256": {
+    "src/controllers.py": "6660e853d0af5cadf3a64b2cf4efafecedf0be0b2b3d46b5af7f2440379af840",
+    "src/decoder.py": "f738134544e3ba8f55b7a9b75a9f2896b4fc396b67248daf2c0445cf24481669",
+    "src/emg_pipeline.py": "3b75bc61a3f82e691c958d152c04f2af51856d3cb348dd51baab76b3633cc672",
+    "src/evaluation.py": "3392c973bcd017e227220ef15c33416f889ff34486dec59e4d25f4bd3f47548f",
+    "src/final_analysis.py": "8a33ea8dacafbb28521462f2fa343b2ecfa79571f9987b9595ccaf940c100e0b",
+    "src/metrics.py": "098bdf9e9d0cbc923546664815cc46518bbf35ffd7f5bc43421a98380f5c609f",
+    "src/policies.py": "1ac1c6aa7dc86e6e84ec2aa016fb64f46a293274d55554b649099f1697cfbb87",
+    "src/replication.py": "556343cefc9d463b7d78bb75fffa21545a2193c69281aaf7f1e634df882027b8",
+    "src/robustness.py": "7772d027d98d2f6d4da6f89d0137ebd2ba76ebf0d1728a7a30bfa0291cf570ca"
+  },
+  "source_archive_sha256": {
+    "3": "1ccb876cb57c44f5a21698f9b8b6ef6fb2323c18ef033914d43412899f21ea04",
+    "4": "21396a0265f8333082f3f2513f032776fbdd397bcc95c0330e97d04d2356ba19",
+    "5": "061291a93c993681070579f17a83065c6e94332c8299eac73ca208e89e1153b5",
+    "6": "a789960a52565929c785630c39c69447fb20667c7467a94156751fe0646eb9ca",
+    "7": "c93ae271f57e039259e2d73944c6dbe079aa2fb9ef90f2f174c57fe45ada3226",
+    "8": "274d0bff593a3fac74898b6a16de2fc5637a3c337d19c55e253360ea10fd7b9d",
+    "9": "a473278a33451ec97b4efef1b68b37e3856e2cf1e18dafe11c316856610832af",
+    "10": "28903042ae3d4ca1dccf9b9c64710eff27670d772ccc5e4bdf7704e1fd4b3a06"
+  },
+  "historical_trace_comparisons": [
+    {
+      "subject": 3,
+      "endpoints_exact": true,
+      "raw_exact": true,
+      "asymmetric_exact": true
+    },
+    {
+      "subject": 4,
+      "endpoints_exact": true,
+      "raw_exact": true,
+      "asymmetric_exact": true
+    },
+    {
+      "subject": 5,
+      "endpoints_exact": true,
+      "raw_exact": true,
+      "asymmetric_exact": true
+    },
+    {
+      "subject": 6,
+      "endpoints_exact": true,
+      "raw_exact": true,
+      "asymmetric_exact": true
+    },
+    {
+      "subject": 7,
+      "endpoints_exact": true,
+      "raw_exact": true,
+      "asymmetric_exact": true
+    },
+    {
+      "subject": 8,
+      "endpoints_exact": true,
+      "raw_exact": true,
+      "asymmetric_exact": true
+    },
+    {
+      "subject": 9,
+      "endpoints_exact": true,
+      "raw_exact": true,
+      "asymmetric_exact": true
+    },
+    {
+      "subject": 10,
+      "endpoints_exact": true,
+      "raw_exact": true,
+      "asymmetric_exact": true
+    }
+  ],
+  "completed_utc": "2026-10-15T22:31:56.478884+00:00"
+}

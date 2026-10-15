@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "participant_condition_controller_evaluations": 320,
+  "matched_events_per_evaluation": 34,
+  "intact_summary_values_matching_release": 12,
+  "all_channel_posteriors_constant": true,
+  "all_scoring_denominators_preserved": true,
+  "historical_trace_checks": 8,
+  "plan_freeze_sha256": "946093a8f2196f789985d14ab9b195a4570e88b2e2f2da3d8cf3a174d40c3f43"
+}

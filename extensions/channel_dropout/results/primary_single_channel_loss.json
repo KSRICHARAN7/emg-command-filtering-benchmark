@@ -1,0 +1,44 @@
+{
+  "raw": {
+    "participants": 8,
+    "mean_loss_correct_pp": 6.394612334750652,
+    "bootstrap_95_percentile_interval_pp": [
+      5.384855561649843,
+      7.586432678260728
+    ],
+    "participant_losses_pp": [
+      7.1764620729589,
+      9.781589173254728,
+      7.166185292157295,
+      4.78492865028417,
+      4.845272302788128,
+      6.89757902659307,
+      4.969749618019614,
+      5.535132541949306
+    ],
+    "draws": 10000,
+    "seed": 5015,
+    "status": "EXPLORATORY_DESCRIPTIVE_ALREADY_EXPOSED_DB5"
+  },
+  "asymmetric": {
+    "participants": 8,
+    "mean_loss_correct_pp": 6.354905587361985,
+    "bootstrap_95_percentile_interval_pp": [
+      5.327918705056785,
+      7.566656939406239
+    ],
+    "participant_losses_pp": [
+      7.138627151655519,
+      9.843003260529725,
+      7.147300599866702,
+      4.741485055403361,
+      4.779329232703267,
+      6.793464626191669,
+      4.924774508354279,
+      5.471260264191363
+    ],
+    "draws": 10000,
+    "seed": 5015,
+    "status": "EXPLORATORY_DESCRIPTIVE_ALREADY_EXPOSED_DB5"
+  }
+}

@@ -1,13 +1,13 @@
 {
   "release": "0.11.0",
   "files_sha256": {
-    ".github/workflows/checks.yml": "f86bef5da51c31547486172ea6b83d474c8303eb53e84e5a70cd547d0cac2cba",
+    ".github/workflows/checks.yml": "db6167be786c14acaeca4d9c400a20398ccfda40d830a3729e254c6393d01f05",
     ".gitignore": "efa27ef6669bcd1d3689652805d67aca34e68626ae92a838e8688fb248040a42",
     "CHANGELOG.md": "3b73bc56a372b14d4816face957dede12f2c466a7f11ccfc76ac86bc57661318",
     "CITATION.cff": "9909437b15e8d307c504897c5e4a30ce58703a18a9fb54500a7d1348da45a8ea",
     "DATA_ACCESS.md": "ac6e8a261bd99094f811b1d90474af3a95318e7b8eb0b82daca4f76ad4b979c9",
     "LICENSE": "87cf6eb7c3d58e8aa3f324250884a0f99a09533b7d4a29fbaa63bb955681f067",
-    "README.md": "58dd07552409a8b29324354c335d2fd0071988afa1aca0f0cd37eaa67dd33228",
+    "README.md": "62c838425a03877b7a769fd16630b19000dc23713bb9e06db57c6c847b63a3c2",
     "RELEASE_SCOPE.md": "cda01493f68d97ee9d64c8f92e5adbd8a888c917933b7e2585c2c77bfc677306",
     "REPRODUCING.md": "4c4e4de9530ffba02064251c63649b5335208a2ed726ed12fd76e7b22c5250a0",
     "config/DB2_replication_v1.0.json": "8f8baeec21aa06e6dc9eecd8ef5f8b76403d59e1c15db90f02282fbd6accbdda",
@@ -143,7 +143,15 @@
     "extensions/channel_dropout/run.py": "01ecb4149bf833eb29de0c6ac304095da8091363a8b6ab2e0c3d16a8674cf812",
     "extensions/channel_dropout/PROTOCOL.md": "d834ad8baf5fb95882751e0dd65934091bd06911d4631d0ba84d318d2ed066ac",
     "extensions/channel_dropout/test_extension.py": "e1bab06fb2c00ae019fd3e96c01d75eefa5642274d551e2af0ed5289bf068745",
-    "extensions/channel_dropout/PLAN_FREEZE.json": "946093a8f2196f789985d14ab9b195a4570e88b2e2f2da3d8cf3a174d40c3f43"
+    "extensions/channel_dropout/PLAN_FREEZE.json": "946093a8f2196f789985d14ab9b195a4570e88b2e2f2da3d8cf3a174d40c3f43",
+    "extensions/channel_dropout/README.md": "ac51452c5b65d0b458eed56eb6de709e2e4038863b840c4d73d5c0acb06892b0",
+    "extensions/channel_dropout/verify_results.py": "57fd5ba74f2979ec5880dbf853347500bda4dfd66ef762fbdcd43776b8fbb066",
+    "extensions/channel_dropout/results/primary_single_channel_loss.json": "9dbd8c7fc549193558658aa3a2aa1f7762f4c3965b499becef8ca5d08c95d981",
+    "extensions/channel_dropout/results/condition_summary.csv": "977b0641a7295d4bb542ab6536186cdfafedb51179f4a41bd0cb1aa0649c8711",
+    "extensions/channel_dropout/results/RUN_MANIFEST.json": "726b3169293913fb98407535e37299cdf78e7ac807b0d9c84ee24758c11da082",
+    "extensions/channel_dropout/results/VALIDATION.json": "2e8f420cba21691e2cc6cce49f9fa4b21003f19a2f0d232ecf5394f9c552dd78",
+    "extensions/channel_dropout/results/participant_metrics.json": "a3d44c87e7d49aa44fd55e2ada8199193e4039cff5ae0fdf9a404bfe87aadad2",
+    "extensions/channel_dropout/results/condition_summary.json": "9a9c3d3da77aa8fc8f852e27773824a4ac700c29aa657c5d128cd40c5da3caff"
   },
   "documentation_update": "2026-10-15: manuscript draft and validated replay-lab links added; benchmark remains v0.11.0"
 }

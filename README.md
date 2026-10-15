@@ -28,6 +28,10 @@ Author-shared draft, October 15, 2026. Not peer reviewed or journal published. T
 
 The [lab source and validation checks](https://github.com/KSRICHARAN7/portfolio/tree/main/emg) live with the portfolio. Browser controller/confirmation outputs match 160 Python reference cases; 16 scenario/controller metric sets were cross-checked against the native Python scorer.
 
+## Exploratory missing-channel extension
+
+[Read the extension and reproduce it](extensions/channel_dropout/README.md). With the original decoder and fixed asymmetric fallback, averaging all 16 single-channel masks reduced correct active-interior output by **6.355 percentage points** [descriptive 95% interval 5.328, 7.567]. This is a separately planned, exploratory stress test of training-mean feature imputation on already-seen DB5 recordings. It does not revise the original study or establish clinical robustness.
+
 ## What was built
 
 - Causal trailing-window EMG features and training-only standardization.
