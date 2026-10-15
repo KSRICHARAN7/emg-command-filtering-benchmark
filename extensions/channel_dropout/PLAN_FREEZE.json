@@ -1,0 +1,21 @@
+{
+  "locked_utc": "2026-10-15T22:31:04.800896+00:00",
+  "status": "EXTENSION_PLAN_BEFORE_THIS_ANALYSIS_ORIGINAL_OUTCOMES_EXPOSED",
+  "files_sha256": {
+    "extensions/channel_dropout/PROTOCOL.md": "d834ad8baf5fb95882751e0dd65934091bd06911d4631d0ba84d318d2ed066ac",
+    "extensions/channel_dropout/run.py": "01ecb4149bf833eb29de0c6ac304095da8091363a8b6ab2e0c3d16a8674cf812",
+    "extensions/channel_dropout/test_extension.py": "e1bab06fb2c00ae019fd3e96c01d75eefa5642274d551e2af0ed5289bf068745",
+    "config/protocol_v1.0.json": "8008d50f18d732cdb9a352106e4e671debe185c2f0cdc563e30f52dbe188c0c3",
+    "config/locked_settings.json": "14285f4e92eeaa9bf6c11a10af8d9d7107ba055f93c1960db9b61c50da9b98c8",
+    "data/archive_inventory.json": "8604895a9d024d3ac1346d0ce01227f71f0cf4b43cfac5090f8c2aff32db7d23",
+    "src/controllers.py": "6660e853d0af5cadf3a64b2cf4efafecedf0be0b2b3d46b5af7f2440379af840",
+    "src/decoder.py": "f738134544e3ba8f55b7a9b75a9f2896b4fc396b67248daf2c0445cf24481669",
+    "src/emg_pipeline.py": "3b75bc61a3f82e691c958d152c04f2af51856d3cb348dd51baab76b3633cc672",
+    "src/evaluation.py": "3392c973bcd017e227220ef15c33416f889ff34486dec59e4d25f4bd3f47548f",
+    "src/final_analysis.py": "8a33ea8dacafbb28521462f2fa343b2ecfa79571f9987b9595ccaf940c100e0b",
+    "src/metrics.py": "098bdf9e9d0cbc923546664815cc46518bbf35ffd7f5bc43421a98380f5c609f",
+    "src/policies.py": "1ac1c6aa7dc86e6e84ec2aa016fb64f46a293274d55554b649099f1697cfbb87",
+    "src/replication.py": "556343cefc9d463b7d78bb75fffa21545a2193c69281aaf7f1e634df882027b8",
+    "src/robustness.py": "7772d027d98d2f6d4da6f89d0137ebd2ba76ebf0d1728a7a30bfa0291cf570ca"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "release": "0.11.0",
   "files_sha256": {
-    ".github/workflows/checks.yml": "c9a5ff0ba27612507f41097f87691d7bf5511b5c92fc22590ddb5a0b11c3d120",
+    ".github/workflows/checks.yml": "f86bef5da51c31547486172ea6b83d474c8303eb53e84e5a70cd547d0cac2cba",
     ".gitignore": "efa27ef6669bcd1d3689652805d67aca34e68626ae92a838e8688fb248040a42",
     "CHANGELOG.md": "3b73bc56a372b14d4816face957dede12f2c466a7f11ccfc76ac86bc57661318",
     "CITATION.cff": "9909437b15e8d307c504897c5e4a30ce58703a18a9fb54500a7d1348da45a8ea",
@@ -139,7 +139,11 @@
     "tests/test_replication.py": "43bebd2b9c8bc6d1d291c7a6ec336cd9119cc7575b291af1dec0bf42efd9dd58",
     "tests/test_robustness.py": "2626efc8bc3bd011814ae3768843bc24dd8391db95cf10ce3e6d906a21332e4a",
     "manuscript/README.md": "6fd6a26e2fd46306b03ccf2b7c00b80909ff7f2e0f489872b01a1f2b6c735aa9",
-    "manuscript/EMG_Manuscript_Draft.pdf": "0f5ecbcb84d167920da46c634e768507aaf92c489164183b6ee918ea7557d550"
+    "manuscript/EMG_Manuscript_Draft.pdf": "0f5ecbcb84d167920da46c634e768507aaf92c489164183b6ee918ea7557d550",
+    "extensions/channel_dropout/run.py": "01ecb4149bf833eb29de0c6ac304095da8091363a8b6ab2e0c3d16a8674cf812",
+    "extensions/channel_dropout/PROTOCOL.md": "d834ad8baf5fb95882751e0dd65934091bd06911d4631d0ba84d318d2ed066ac",
+    "extensions/channel_dropout/test_extension.py": "e1bab06fb2c00ae019fd3e96c01d75eefa5642274d551e2af0ed5289bf068745",
+    "extensions/channel_dropout/PLAN_FREEZE.json": "946093a8f2196f789985d14ab9b195a4570e88b2e2f2da3d8cf3a174d40c3f43"
   },
   "documentation_update": "2026-10-15: manuscript draft and validated replay-lab links added; benchmark remains v0.11.0"
 }
