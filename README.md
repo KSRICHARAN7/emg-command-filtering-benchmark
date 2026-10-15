@@ -18,9 +18,15 @@ Positive values mean more nonzero-command time during annotated rest. These are 
 
 ## Manuscript draft
 
-[Read the manuscript draft (PDF)](manuscript/EMG_Manuscript_Draft.pdf) · [Project in the portfolio](https://ksricharan7.github.io/portfolio/#emg)
+[Read the manuscript draft (PDF)](manuscript/EMG_Manuscript_Draft.pdf) · [Project in the portfolio](https://ksricharan7.github.io/portfolio/emg.html)
 
 Author-shared draft, October 15, 2026. Not peer reviewed or journal published. The draft does not change the frozen benchmark or released results.
+
+## Interactive replay lab
+
+[Try the EMG replay lab](https://ksricharan7.github.io/portfolio/emg-lab.html). Edition 1 compares raw, symmetric, asymmetric and trailing-majority controllers on clearly labeled synthetic command streams. A separate fixed-results view displays the released DB5/DB2 contrasts. Sliders do not recompute the study results.
+
+The [lab source and validation checks](https://github.com/KSRICHARAN7/portfolio/tree/main/emg) live with the portfolio. Browser controller/confirmation outputs match 160 Python reference cases; 16 scenario/controller metric sets were cross-checked against the native Python scorer.
 
 ## What was built
 
